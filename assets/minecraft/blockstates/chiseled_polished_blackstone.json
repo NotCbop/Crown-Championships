@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "": [
+            {
+            "model": "minecraft:block/tiles/tiles_1"
+            },
+            {
+            "model": "minecraft:block/tiles/tiles_2"
+            },
+            {
+            "model": "minecraft:block/tiles/tiles_3"
+            },
+            {
+            "model": "minecraft:block/tiles/tiles_4"
+            },
+            {
+            "model": "minecraft:block/tiles/tiles_5"
+            },
+            {
+            "model": "minecraft:block/tiles/tiles_6"
+            }
+        ]
+    }
+}

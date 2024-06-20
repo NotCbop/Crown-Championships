@@ -1,0 +1,24 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/emerald"
+	},
+	
+	"overrides":
+	[
+       	{
+		    "predicate": 
+			{
+				"custom_model_data":1
+			},
+			    "model": "custom:sg/sg_grave"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":2
+			},
+			    "model": "custom:sg/airdrop"
+		}
+	]
+}

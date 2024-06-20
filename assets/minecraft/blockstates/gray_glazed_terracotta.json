@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/concrete/green_glazed_concrete",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/wool/green_glazed_wool",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/concrete/light_blue_glazed_concrete"
+    },
+    "facing=west": {
+      "model": "minecraft:block/wool/light_blue_glazed_wool",
+      "y": 90
+    }
+  }
+}

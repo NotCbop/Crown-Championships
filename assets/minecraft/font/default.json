@@ -1,0 +1,923 @@
+{
+
+    "providers": [
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "⅚"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "ⴅ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "₾"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "ⴝ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "ⴛ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "⅛"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "⅞"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⴞ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⴔ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓐ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓑ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓒ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓓ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓔ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓕ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓖ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓗ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓘ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓙ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓚ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓛ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓜ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓝ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓞ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓐ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓠ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓡ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓢ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓣ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓥ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓦ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓧ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓨ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓩ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓤ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⓟ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/medal.png",
+            "chars": [
+              "⓫"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/gold_medal.png",
+            "chars": [
+              "⓯"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/silver_medal.png",
+            "chars": [
+              "⓮"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/bronze_medal.png",
+            "chars": [
+              "⓭"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/stone_medal.png",
+            "chars": [
+              "⓬"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/fast.png",
+            "chars": [
+              "⓱"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/slow.png",
+            "chars": [
+              "⓰"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/dolphinsgrace.png",
+            "chars": [
+              "⓲"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/trident.png",
+            "chars": [
+              "⓳"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/elytra.png",
+            "chars": [
+              "⓴"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/crownfull.png",
+            "chars": [
+              "➍"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/crownempty.png",
+            "chars": [
+              "➌"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/circlefull.png",
+            "chars": [
+              "➋"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/circleempty.png",
+            "chars": [
+              "➊"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/acerace.png",
+            "chars": [
+              "❶"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/battlebox.png",
+            "chars": [
+              "❻"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/buildmart.png",
+            "chars": [
+              "❺"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/rocketspleefrush.png",
+            "chars": [
+              "❸"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/parkourwarrior.png",
+            "chars": [
+              "❹"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/dodgebolt.png",
+            "chars": [
+              "❾"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/holeinthewall.png",
+            "chars": [
+              "❽"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/gridrunners.png",
+            "chars": [
+              "❿"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/skybattle.png",
+            "chars": [
+              "❼"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/parkourtag.png",
+            "chars": [
+              "❷"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/bingobutfast.png",
+            "chars": [
+              "➀"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/meltdown.png",
+            "chars": [
+              "➁"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/survivalgames.png",
+            "chars": [
+              "➂"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/sandsoftime.png",
+            "chars": [
+              "➃"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/tgttos.png",
+            "chars": [
+              "⓿"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/red_rabbits.png",
+            "chars": [
+              "의"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/orange_ocelots.png",
+            "chars": [
+              "이"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/yellow_yaks.png",
+            "chars": [
+              "익"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/lime_llamas.png",
+            "chars": [
+              "으"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/green_geckos.png",
+            "chars": [
+              "위"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/cyan_coyotes.png",
+            "chars": [
+              "윅"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/aqua_axolotls.png",
+            "chars": [
+              "읏"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/blue_bats.png",
+            "chars": [
+              "윽"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/purple_pandas.png",
+            "chars": [
+              "윈"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/teams/pink_parrots.png",
+            "chars": [
+              "응"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/player.png",
+            "chars": [
+              "⓪"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/coin.png",
+            "chars": [
+              "을"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/spectator.png",
+            "chars": [
+              "자"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/icons/spec.png",
+            "chars": [
+              "인"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+		{
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "은"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+          "file": "custom:font/fx/anim1.png",
+          "chars": [
+            "⬆️"
+          ],
+          "height": 80,
+          "ascent": 80,
+          "type": "bitmap"
+      },
+  {
+          "file": "custom:font/fx/anim2.png",
+          "chars": [
+            "💒"
+          ],
+          "height": 80,
+          "ascent": 80,
+          "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/anim3.png",
+        "chars": [
+          "💿"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/anim4.png",
+        "chars": [
+          "🎩"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/animkill1.png",
+        "chars": [
+          "🎻"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/animkill2.png",
+        "chars": [
+          "👓"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/animkill3.png",
+        "chars": [
+          "🎥"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/animkill4.png",
+        "chars": [
+          "🖊"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/animkill5.png",
+        "chars": [
+          "🎆"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+      },
+  {
+        "file": "custom:font/fx/kill1.png",
+        "chars": [
+          "🚭"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/kill2.png",
+        "chars": [
+          "🕤"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/kill3.png",
+        "chars": [
+        "🎌"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/kill4.png",
+        "chars": [
+        "💢"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/kill5.png",
+        "chars": [
+       "🍖"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/lap.png",
+        "chars": [
+        "🐎"
+        ],
+        "height": 80,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/util/survived.png",
+        "chars": [
+        "🍾"
+        ],
+        "height": 8,
+        "ascent": 8,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/util/tagger.png",
+        "chars": [
+        "🌀"
+        ],
+        "height": 8,
+        "ascent": 8,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/util/crown.png",
+        "chars": [
+        "🏆"
+        ],
+        "height": 8,
+        "ascent": 8,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/skybattle.png",
+        "chars": [
+        "🏙"
+        ],
+        "height": 75,
+        "ascent": 40,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/parkourtag.png",
+        "chars": [
+        "🚇"
+        ],
+        "height": 75,
+        "ascent": 40,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/acerace.png",
+        "chars": [
+        "👝"
+        ],
+        "height": 75,
+        "ascent": 40,
+        "type": "bitmap"
+     },
+		{
+		    "file": "custom:font/transition.png",
+            "chars": [
+              "\uE001"
+            ],
+            "height": 1200,
+            "ascent": 250,
+            "type": "bitmap"
+        }
+    ]
+}

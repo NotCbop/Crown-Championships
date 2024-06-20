@@ -1,0 +1,171 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/blaze_rod"
+	},
+	
+	"overrides":
+	[
+       	{
+		    "predicate": 
+			{
+				"custom_model_data":1
+			},
+			    "model": "custom:pkw/sign_medium"
+		},
+        {
+		    "predicate": 
+			{
+				"custom_model_data":2
+			},
+			    "model": "custom:pkw/frog_bronze"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":3
+			},
+			    "model": "custom:pkw/frog_gold"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":4
+			},
+			    "model": "custom:pkw/frog_outline"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":5
+			},
+			    "model": "custom:pkw/frog_silver"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":6
+			},
+			    "model": "custom:pkw/frog_statue"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":7
+			},
+			    "model": "custom:pkw/lantern_crown"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":8
+			},
+			    "model": "custom:pkw/lantern_red"
+		},
+	    {
+		    "predicate": 
+			{
+				"custom_model_data":9
+			},
+			    "model": "custom:pkw/stone_lantern"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":10
+			},
+			    "model": "custom:pkw/lantern_white"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":11
+			},
+			    "model": "custom:pkw/medal"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":12
+			},
+			    "model": "custom:pkw/medal_bronze"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":13
+			},
+			    "model": "custom:pkw/medal_gold"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":14
+			},
+			    "model": "custom:pkw/medal_outline"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":15
+			},
+			    "model": "custom:pkw/medal_silver"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":16
+			},
+			    "model": "custom:pkw/medal_stone"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":17
+			},
+			    "model": "custom:pkw/sign_bonus"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":18
+			},
+			    "model": "custom:pkw/sign_easy"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":19
+			},
+			    "model": "custom:pkw/sign_hard"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":20
+			},
+			    "model": "custom:pkw/wall_scroll_2"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":21
+			},
+			    "model": "custom:pkw/sign_mcc"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":22
+			},
+			    "model": "custom:pkw/frog_statue_small"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":23
+			},
+			    "model": "custom:pkw/frog_statue_small_2"
+		}
+	]
+}

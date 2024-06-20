@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"3": "model_textures/checkpoint",
+		"particle": "model_textures/checkpoint"
+	},
+	"elements": [
+		{
+			"from": [5.5, 22, 5.5],
+			"to": [10.5, 25.5, 10.5],
+			"faces": {
+				"north": {"uv": [2, 5, 4.5, 6.75], "texture": "#3"},
+				"east": {"uv": [2, 5, 4.5, 6.75], "texture": "#3"},
+				"south": {"uv": [2, 5, 4.5, 6.75], "texture": "#3"},
+				"west": {"uv": [2, 5, 4.5, 6.75], "texture": "#3"},
+				"up": {"uv": [16, 5, 11, 0], "texture": "#3"},
+				"down": {"uv": [16, 0, 11, 5], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6, -7, 6],
+			"to": [10, 17, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 12], "texture": "#3"},
+				"east": {"uv": [0, 0, 2, 12], "texture": "#3"},
+				"south": {"uv": [0, 0, 2, 12], "texture": "#3"},
+				"west": {"uv": [0, 0, 2, 12], "texture": "#3"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#3"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#3"}
+			}
+		},
+		{
+			"from": [5, 17, 5],
+			"to": [11, 21, 11],
+			"faces": {
+				"north": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"east": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"south": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"west": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"up": {"uv": [5, 5, 2, 2], "texture": "#3"},
+				"down": {"uv": [5, 2, 2, 5], "texture": "#3"}
+			}
+		},
+		{
+			"from": [5, -11, 5],
+			"to": [11, -7, 11],
+			"faces": {
+				"north": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"east": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"south": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"west": {"uv": [2, 0, 5, 2], "texture": "#3"},
+				"up": {"uv": [5, 5, 2, 2], "texture": "#3"},
+				"down": {"uv": [5, 2, 2, 5], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -76],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

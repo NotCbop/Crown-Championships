@@ -1,0 +1,115 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/diamond"
+	},
+	
+	"overrides":
+	[
+       	{
+		    "predicate": 
+			{
+				"custom_model_data":1
+			},
+			    "model": "custom:gr/puzzle_button_off"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":2
+			},
+			    "model": "custom:gr/puzzle_button_on"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":3
+			},
+			    "model": "custom:gr/target_green"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":4
+			},
+			    "model": "custom:gr/target_red"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":5
+			},
+			    "model": "custom:gr/gr_placeable2"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":6
+			},
+			    "model": "custom:gr/gr_placeable"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":7
+			},
+			    "model": "custom:gr/aqua_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":8
+			},
+			    "model": "custom:gr/blue_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":9
+			},
+			    "model": "custom:gr/green_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":10
+			},
+			    "model": "custom:gr/lime_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":11
+			},
+			    "model": "custom:gr/orange_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":12
+			},
+			    "model": "custom:gr/pink_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":13
+			},
+			    "model": "custom:gr/red_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":14
+			},
+			    "model": "custom:gr/yellow_block"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":15
+			},
+			    "model": "custom:gr/golfclub"
+		}
+	]
+}

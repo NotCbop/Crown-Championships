@@ -1,0 +1,65 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "minecraft:model_textures/hub/misc7",
+		"particle": "minecraft:model_textures/hub/misc7"
+	},
+	"elements": [
+		{
+			"from": [-4, 9, 15],
+			"to": [20, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 15.25, 3, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.25, 0.125, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.25, 0.125, 16], "texture": "#0"},
+				"west": {"uv": [0, 15.25, 0.125, 16], "texture": "#0"},
+				"up": {"uv": [0, 15.25, 3, 15.375], "texture": "#0"},
+				"down": {"uv": [0, 15.875, 3, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [23, 1, 15],
+			"to": [30, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 10.875, 0.875, 12.625], "texture": "#0"},
+				"east": {"uv": [0, 10.875, 0.125, 12.625], "texture": "#0"},
+				"south": {"uv": [0, 10.875, 0.125, 12.625], "texture": "#0"},
+				"west": {"uv": [0, 10.875, 0.125, 12.625], "texture": "#0"},
+				"up": {"uv": [0, 10.875, 0.875, 11], "texture": "#0"},
+				"down": {"uv": [0, 12.5, 0.875, 12.625], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-14, 1, 15],
+			"to": [-7, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 10.875, 0.875, 12.625], "texture": "#0"},
+				"east": {"uv": [0, 10.875, 0.125, 12.625], "texture": "#0"},
+				"south": {"uv": [0, 10.875, 0.125, 12.625], "texture": "#0"},
+				"west": {"uv": [0, 10.875, 0.125, 12.625], "texture": "#0"},
+				"up": {"uv": [0, 10.875, 0.875, 11], "texture": "#0"},
+				"down": {"uv": [0, 12.5, 0.875, 12.625], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 1, 15],
+			"to": [20, 7, 16],
+			"faces": {
+				"north": {"uv": [0, 15.25, 3, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.25, 0.125, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.25, 0.125, 16], "texture": "#0"},
+				"west": {"uv": [0, 15.25, 0.125, 16], "texture": "#0"},
+				"up": {"uv": [0, 15.25, 3, 15.375], "texture": "#0"},
+				"down": {"uv": [0, 15.875, 3, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -30.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

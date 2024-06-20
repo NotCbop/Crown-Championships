@@ -1,0 +1,95 @@
+{
+    "providers": [
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_1_5.png",
+		 "height": 40,
+		 "ascent": 20,
+		 "chars": ["\uE001"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_2.png",
+		 "height": 40,
+		 "ascent": 20,
+		 "chars": ["\uE002"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_2_5.png",
+		 "height": 40,
+		 "ascent": 20,
+		 "chars": ["\uE003"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_3.png",
+		 "height": 40,
+		 "ascent": 20,
+		 "chars": ["\uE004"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_1.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE005"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_2.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE006"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_3.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE007"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_4.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE008"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_5.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE009"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_6.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE010"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/coin_particles_7.png",
+		 "height": 120,
+		 "ascent": 80,
+		 "chars": ["\uE011"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/vote_1.png",
+		 "height": 9,
+		 "ascent": 8,
+		 "chars": ["\uE012"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dd/vote_2.png",
+		 "height": 9,
+		 "ascent": 8,
+		 "chars": ["\uE013"]
+		}
+    ]
+}

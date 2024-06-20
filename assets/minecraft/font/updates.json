@@ -1,0 +1,88 @@
+{
+    "providers": [
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/border1.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE001"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/border2.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE002"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/lower1.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE003"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/lower2.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE004"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/platform1.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE005"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/platform2.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE006"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/updraft1.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE007"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/updraft2.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE008"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/wall_diff1.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE009"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/wall_diff2.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE010"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/wall_speed1.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE011"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/updates/wall_speed2.png",
+		 "height": 35,
+		 "ascent": 10,
+		 "chars": ["\uE012"]
+		}
+    ]
+}

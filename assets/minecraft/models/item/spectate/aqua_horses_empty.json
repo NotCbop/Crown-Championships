@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spectate/aqua_horses_empty"
+    }
+}

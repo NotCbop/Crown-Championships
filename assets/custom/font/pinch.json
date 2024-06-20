@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "ttf",
+      "file": "custom:pinch.ttf",
+      "shift": [
+        0.0,
+        2.0
+      ],
+      "size": 7,
+      "oversample": 2.0
+    }
+  ]
+}

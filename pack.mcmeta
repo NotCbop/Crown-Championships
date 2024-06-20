@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 13,
+    "description": "Crown Championship Server Resource Pack",
+    "supported_formats": 13
+  },
+  "language": {},
+  "filter": {
+    "block": []
+  },
+  "overlays": {
+    "entries": []
+  }
+}

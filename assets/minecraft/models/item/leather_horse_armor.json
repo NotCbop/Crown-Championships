@@ -1,0 +1,19 @@
+{"parent":"minecraft:item/generated",
+"textures":{"layer0":"minecraft:item/leather_horse_armor"},
+"overrides":[
+       {"predicate":{"custom_model_data":1},"model":"custom:rsr/hand_cannon_empty_0"},
+	   {"predicate":{"custom_model_data":2},"model":"custom:rsr/hand_cannon_empty_1"},
+	   {"predicate":{"custom_model_data":3},"model":"custom:rsr/hand_cannon_empty_2"},
+	   {"predicate":{"custom_model_data":4},"model":"custom:rsr/hand_cannon_empty_3"},
+	   {"predicate":{"custom_model_data":5},"model":"custom:rsr/hand_cannon_loaded_1"},
+	   {"predicate":{"custom_model_data":6},"model":"custom:rsr/hand_cannon_loaded_2"},
+       {"predicate":{"custom_model_data":7},"model":"custom:rsr/hand_cannon_loaded_3"},
+	   {"predicate":{"custom_model_data":8},"model":"custom:md/heater_1"},
+	   {"predicate":{"custom_model_data":9},"model":"custom:md/heater_2"},
+	   {"predicate":{"custom_model_data":10},"model":"custom:md/heater_3"},
+	   {"predicate":{"custom_model_data":11},"model":"custom:md/heater_depolyed"},
+	   {"predicate":{"custom_model_data":12},"model":"custom:md/heater_deployed_2"},
+	   {"predicate":{"custom_model_data":13},"model":"custom:md/heater_deployed_3"},
+	   {"predicate":{"custom_model_data":14},"model":"custom:md/heater_deployed_4"}
+	   ]
+}

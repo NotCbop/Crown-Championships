@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/glazed/purple_glazed_1",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/glazed/purple_glazed_2",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/glazed/purple_glazed_3"
+    },
+    "facing=west": {
+      "model": "minecraft:block/glazed/purple_glazed_4",
+      "y": 90
+    }
+  }
+}

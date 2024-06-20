@@ -1,0 +1,102 @@
+{
+    "providers": [
+        {
+	     "type": "bitmap",
+	     "file": "custom:font/battlebox.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE001"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/parkourtag.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE002"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/acerace.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE003"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/skybattle.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE004"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE005"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/gridrunners.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE006"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/rocketspleefrush.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE007"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/tgttoswaf.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE008"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/holeinthewall.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE009"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/sandsoftime.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE010"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/survivalgames.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE011"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/buildmart.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE012"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/parkourwarrior.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE014"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/meltdown.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE015"]
+		}
+    ]
+}

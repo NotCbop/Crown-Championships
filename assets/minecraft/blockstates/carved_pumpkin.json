@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "facing=east":[
+	 {
+	     "model": "minecraft:block/f1_angry","y": 90
+	 },
+	 {
+	     "model": "minecraft:block/f1_happy","y": 90
+	 },
+	 {
+	     "model": "minecraft:block/f1_glad","y": 90
+	 },
+	 {
+	     "model": "minecraft:block/f1_sus","y": 90
+	 },
+	 {
+	     "model": "minecraft:block/f1_questioning","y": 90
+	 },
+	 {
+	     "model": "minecraft:block/f1_sleeping","y": 90
+	 }
+	],
+    "facing=north":[
+	 {
+	  "model": "minecraft:block/f1_angry"
+	 },
+	 {
+		 "model": "minecraft:block/f1_happy"
+	 },
+	 {
+		 "model": "minecraft:block/f1_glad"
+	 },
+	 {
+		 "model": "minecraft:block/f1_sus"
+	 },
+	 {
+		 "model": "minecraft:block/f1_questioning"
+	 },
+	 {
+		 "model": "minecraft:block/f1_sleeping"
+	 }
+	],
+    "facing=south":[
+	 {
+		 "model": "minecraft:block/f1_angry","y": 180
+	 },
+	 {
+		 "model": "minecraft:block/f1_happy","y": 180
+	 },
+	 {
+		 "model": "minecraft:block/f1_glad","y": 180
+	 },
+	 {
+		 "model": "minecraft:block/f1_sus","y": 180
+	 },
+	 {
+		 "model": "minecraft:block/f1_questioning","y": 180
+	 },
+	 {
+		 "model": "minecraft:block/f1_sleeping","y": 180
+	 }
+	],
+    "facing=west":[
+	 {
+		 "model": "minecraft:block/f1_angry","y": 270
+	 },
+	 {
+		 "model": "minecraft:block/f1_happy","y": 270
+	 },
+	 {
+		 "model": "minecraft:block/f1_glad","y": 270
+	 },
+	 {
+		 "model": "minecraft:block/f1_sus","y": 270
+	 },
+	 {
+		 "model": "minecraft:block/f1_questioning","y": 270
+	 },
+	 {
+		 "model": "minecraft:block/f1_sleeping","y": 270
+	 }
+	]
+  }
+}

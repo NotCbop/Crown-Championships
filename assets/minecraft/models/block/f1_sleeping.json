@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/heads/f1_sleeping",
+    "side": "minecraft:block/heads/f1_side",
+    "top": "minecraft:block/heads/f1_top"
+  }
+}

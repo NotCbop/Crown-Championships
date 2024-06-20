@@ -1,0 +1,465 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/netherite_ingot"
+	},
+	
+	"overrides":
+	[
+       	{
+		    "predicate": 
+			{
+				"custom_model_data":1
+			},
+			    "model": "custom:hub/bronze_medal"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":2
+			},
+			    "model": "custom:hub/burger_grill"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":3
+			},
+			    "model": "custom:hub/burger_large"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":4
+			},
+			    "model": "custom:hub/burger_menu"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":5
+			},
+			    "model": "custom:hub/burger_roof"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":6
+			},
+			    "model": "custom:hub/burger_sign"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":7
+			},
+			    "model": "custom:hub/burger_sign"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":8
+			},
+			    "model": "custom:hub/chicken_statue"
+		},
+			{
+		    "predicate": 
+			{
+				"custom_model_data":10
+			},
+			    "model": "custom:hub/cats/cat_tina"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":11
+			},
+			    "model": "custom:hub/cats/cat_thor"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":12
+			},
+			    "model": "custom:hub/cats/cat_scott"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":13
+			},
+			    "model": "custom:hub/crown_brazier"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":14
+			},
+			    "model": "custom:hub/doghouse"
+		},
+			{
+		    "predicate": 
+			{
+				"custom_model_data":15
+			},
+			    "model": "custom:hub/cats/cat_noctis"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":16
+			},
+			    "model": "custom:hub/cats/cat_eloise"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":17
+			},
+			    "model": "custom:hub/shared/sunbed"
+		},
+			{
+		    "predicate": 
+			{
+				"custom_model_data":18
+			},
+			    "model": "custom:hub/flamingo_head"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":19
+			},
+			    "model": "custom:hub/gdl_crate_1"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":20
+			},
+			    "model": "custom:hub/gdl_crate_2"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":21
+			},
+			    "model": "custom:hub/gdl_crate_3"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":22
+			},
+			    "model": "custom:hub/gdl_fan"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":23
+			},
+			    "model": "custom:hub/gdl_sign"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":24
+			},
+			    "model": "custom:hub/gdl_thruster"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":25
+			},
+			    "model": "custom:hub/gdl_thruster_2"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":26
+			},
+			    "model": "custom:hub/gold_medal"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":27
+			},
+			    "model": "custom:hub/inflatable_a"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":28
+			},
+			    "model": "custom:hub/inflatable_b"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":29
+			},
+			    "model": "custom:hub/lilo_blue"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":30
+			},
+			    "model": "custom:hub/lilo_yellow"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":31
+			},
+			    "model": "custom:hub/sandcastle"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":32
+			},
+			    "model": "custom:hub/silver_medal"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":33
+			},
+			    "model": "custom:hub/spatula"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":34
+			},
+			    "model": "custom:hub/spatula_rack"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":35
+			},
+			    "model": "custom:hub/shared/coconut"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":36
+			},
+			    "model": "custom:hub/shared/coconut_drink"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":37
+			},
+			    "model": "custom:hub/shared/coconut_drink_empty"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":38
+			},
+			    "model": "custom:hub/shared/coconut_open"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":39
+			},
+			    "model": "custom:hub/shared/tiki_blender"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":40
+			},
+			    "model": "custom:hub/shared/tiki_flowers_1"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":41
+			},
+			    "model": "custom:hub/shared/tiki_mask_1"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":42
+			},
+			    "model": "custom:hub/shared/tiki_mask_2"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":43
+			},
+			    "model": "custom:hub/shared/tiki_plant"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":44
+			},
+			    "model": "custom:hub/shared/tiki_roof"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":45
+			},
+			    "model": "custom:hub/shared/tiki_stool"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":46
+			},
+			    "model": "custom:hub/shared/tiki_sunbed"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":47
+			},
+			    "model": "custom:hub/shared/tiki_torch"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":48
+			},
+			    "model": "custom:hub/shared/totem_cat"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":49
+			},
+			    "model": "custom:hub/shared/totem_chicken"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":50
+			},
+			    "model": "custom:hub/shared/totem_founder"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":51
+			},
+			    "model": "custom:hub/shared/totem_tinkerer"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":52
+			},
+			    "model": "custom:hub/shared/totem_zombie"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":53
+			},
+			    "model": "custom:item/techno_memorial"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":54
+			},
+			    "model": "custom:hub/firecracker"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":54
+			},
+			    "model": "custom:hub/firecracker"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":55
+			},
+			    "model": "custom:hub/taco_grill"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":56
+			},
+			    "model": "custom:hub/taco_roof"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":57
+			},
+			    "model": "custom:hub/taco_sign"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":58
+			},
+			    "model": "custom:hub/taco_topper"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":59
+			},
+			    "model": "custom:hub/tacotruck_front"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":60
+			},
+			    "model": "custom:hub/tacotruck_window"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":61
+			},
+			    "model": "custom:hub/slushie_sign"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":62
+			},
+			    "model": "custom:hub/slushie"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":63
+			},
+			    "model": "custom:hub/taco_menu"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":64
+			},
+			    "model": "custom:hub/floodlight"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":65
+			},
+			    "model": "custom:hub/floodlight_down"
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+    "providers": [
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_red.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE001"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_orange.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE002"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_yellow.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE003"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_lime.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE004"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_green.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE005"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_cyan.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE006"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_aqua.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE007"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_blue.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE008"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_purple.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE009"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/win_pink.png",
+		 "height": 40,
+		 "ascent": 21,
+		 "chars": ["\uE010"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/light1.png",
+		 "height": 231,
+		 "ascent": 134,
+		 "chars": ["\uE011"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/light2.png",
+		 "height": 231,
+		 "ascent": 134,
+		 "chars": ["\uE012"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/light3.png",
+		 "height": 231,
+		 "ascent": 134,
+		 "chars": ["\uE013"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/light4.png",
+		 "height": 231,
+		 "ascent": 134,
+		 "chars": ["\uE014"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/light5.png",
+		 "height": 231,
+		 "ascent": 134,
+		 "chars": ["\uE015"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "custom:font/dodgebolt/light6.png",
+		 "height": 231,
+		 "ascent": 134,
+		 "chars": ["\uE016"]
+		}
+    ]
+}
