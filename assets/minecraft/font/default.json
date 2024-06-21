@@ -910,6 +910,15 @@
         "ascent": 40,
         "type": "bitmap"
      },
+  {
+        "file": "custom:font/survivalgames.png",
+        "chars": [
+        "🕰"
+        ],
+        "height": 75,
+        "ascent": 40,
+        "type": "bitmap"
+     },
 		{
 		    "file": "custom:font/transition.png",
             "chars": [
