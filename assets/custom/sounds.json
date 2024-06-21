@@ -504,6 +504,16 @@
       "custom:dd/click6"
     ]
   },
+       "gameentry": {
+    "sounds": [
+      "custom:gameentry"
+    ]
+  },
+       "horn": {
+    "sounds": [
+      "custom:eventbegin"
+    ]
+  },
      "dodgebolt.death": {
     "sounds": [
       "custom:main/death"
