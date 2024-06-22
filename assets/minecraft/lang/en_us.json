@@ -504,7 +504,7 @@
   "disconnect.exceeded_packet_rate": "Kicked for exceeding packet rate limit",
   "soundCategory.master": "Master Volume",
   "soundCategory.music": "Music",
-  "soundCategory.record": "Game Music",
+  "soundCategory.record": "Jukebox/Music Records",
   "soundCategory.weather": "Weather",
   "soundCategory.hostile": "Hostile Creatures",
   "soundCategory.neutral": "Game Music",
