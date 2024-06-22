@@ -902,6 +902,24 @@
         "type": "bitmap"
      },
   {
+        "file": "custom:font/border1.png",
+        "chars": [
+        "🆘"
+        ],
+        "height": 3,
+        "ascent": 64,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/border2.png",
+        "chars": [
+        "🅿️"
+        ],
+        "height": 3,
+        "ascent": 64,
+        "type": "bitmap"
+     },
+  {
         "file": "custom:font/acerace.png",
         "chars": [
         "👝"
