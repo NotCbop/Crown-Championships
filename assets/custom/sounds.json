@@ -444,6 +444,11 @@
       "custom:main/shrink"
     ]
   },
+       "border_shrink": {
+    "sounds": [
+      "custom:main/border_shrink"
+    ]
+  },
        "small.coins": {
     "sounds": [
       "custom:main/smallcoins"
