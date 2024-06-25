@@ -906,8 +906,8 @@
         "chars": [
         "🆘"
         ],
-        "height": 64,
-        "ascent": 3,
+        "height": 50,
+        "ascent": 2,
         "type": "bitmap"
      },
   {
@@ -915,8 +915,8 @@
         "chars": [
         "🅿️"
         ],
-        "height": 64,
-        "ascent": 3,
+        "height": 50,
+        "ascent": 2,
         "type": "bitmap"
      },
   {
