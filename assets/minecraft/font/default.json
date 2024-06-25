@@ -905,7 +905,7 @@
         "file": "custom:font/border1.png",
         "chars": [
         "🆘"
-        ],
+	    ],
         "height": 50,
         "ascent": 2,
         "type": "bitmap"
