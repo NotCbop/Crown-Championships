@@ -460,6 +460,20 @@
 				"custom_model_data":65
 			},
 			    "model": "custom:hub/floodlight_down"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":66
+			},
+			    "model": "custom:hub/elevator_max"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":67
+			},
+			    "model": "custom:hub/elevator_dial"
 		}
 	]
 }
