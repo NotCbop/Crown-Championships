@@ -884,6 +884,15 @@
         "type": "bitmap"
      },
   {
+        "file": "custom:font/util/skull.png",
+        "chars": [
+        "👹"
+        ],
+        "height": 9,
+        "ascent": 8,
+        "type": "bitmap"
+     },
+  {
         "file": "custom:font/skybattle.png",
         "chars": [
         "🏙"
