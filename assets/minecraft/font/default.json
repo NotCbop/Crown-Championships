@@ -398,140 +398,311 @@
             "type": "bitmap"
         },
         {
-          "file": "custom:font/fx/anim1.png",
+          "file": "custom:font/fx/1.png",
           "chars": [
             "⬆️"
           ],
-          "height": 85,
+          "height": 100,
           "ascent": 80,
           "type": "bitmap"
       },
   {
-          "file": "custom:font/fx/anim2.png",
+          "file": "custom:font/fx/2.png",
           "chars": [
             "💒"
           ],
-          "height": 85,
+          "height": 100,
           "ascent": 80,
           "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/anim3.png",
+        "file": "custom:font/fx/3.png",
         "chars": [
           "💿"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/anim4.png",
+        "file": "custom:font/fx/4.png",
         "chars": [
           "🎩"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/animkill1.png",
+        "file": "custom:font/fx/single_kill/5.png",
         "chars": [
           "🎻"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/animkill2.png",
+        "file": "custom:font/fx/single_kill/6.png",
         "chars": [
           "👓"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/animkill3.png",
+        "file": "custom:font/fx/single_kill/7.png",
         "chars": [
           "🎥"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/animkill4.png",
+        "file": "custom:font/fx/single_kill/8.png",
         "chars": [
           "🖊"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/animkill5.png",
+        "file": "custom:font/fx/single_kill/9.png",
         "chars": [
           "🎆"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
       },
   {
-        "file": "custom:font/fx/kill1.png",
+        "file": "custom:font/fx/single_kill/10.png",
         "chars": [
           "🚭"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
      },
   {
-        "file": "custom:font/fx/kill2.png",
+        "file": "custom:font/fx/double_kill/5.png",
         "chars": [
           "🕤"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
      },
   {
-        "file": "custom:font/fx/kill3.png",
+        "file": "custom:font/fx/double_kill/6.png",
         "chars": [
         "🎌"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
      },
   {
-        "file": "custom:font/fx/kill4.png",
+        "file": "custom:font/fx/double_kill/7.png",
         "chars": [
         "💢"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
      },
   {
-        "file": "custom:font/fx/kill5.png",
+        "file": "custom:font/fx/double_kill/8.png",
         "chars": [
        "🍖"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
      },
   {
-        "file": "custom:font/fx/lap.png",
+        "file": "custom:font/fx/double_kill/9.png",
         "chars": [
         "🐎"
         ],
-        "height": 85,
+        "height": 100,
         "ascent": 80,
         "type": "bitmap"
      },
+  {
+      "file": "custom:font/fx/double_kill/10.png",
+      "chars": [
+      "🖌"
+      ],
+      "height": 100,
+      "ascent": 80,
+      "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/triple_kill/5.png",
+    "chars": [
+    "🍦"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/triple_kill/6.png",
+    "chars": [
+    "🚧"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/triple_kill/7.png",
+    "chars": [
+    "💧"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/triple_kill/8.png",
+    "chars": [
+    "🐸"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/triple_kill/9.png",
+    "chars": [
+    "💜"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/triple_kill/10.png",
+    "chars": [
+    "🗄"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/quadra_kill/5.png",
+    "chars": [
+    "🍺"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/quadra_kill/6.png",
+    "chars": [
+    "🙂"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/quadra_kill/7.png",
+    "chars": [
+    "🗿"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/quadra_kill/8.png",
+    "chars": [
+    "🖨"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/quadra_kill/9.png",
+    "chars": [
+    "🍅"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/quadra_kill/10.png",
+    "chars": [
+    "🗻"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/rampage/5.png",
+    "chars": [
+    "👽"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/rampage/6.png",
+    "chars": [
+    "🏨"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/rampage/7.png",
+    "chars": [
+    "👞"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/rampage/8.png",
+    "chars": [
+    "🗑"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/rampage/9.png",
+    "chars": [
+    "🌯"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
+  {
+    "file": "custom:font/fx/rampage/10.png",
+    "chars": [
+    "🛢"
+    ],
+    "height": 100,
+    "ascent": 80,
+    "type": "bitmap"
+   },
   {
         "file": "custom:font/util/survived.png",
         "chars": [
