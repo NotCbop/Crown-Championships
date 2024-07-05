@@ -514,6 +514,11 @@
       "custom:gameentry"
     ]
   },
+	"gameintro": {
+    "sounds": [
+      "custom:gameintro"
+    ]
+  },
        "horn": {
     "sounds": [
       "custom:eventbegin"
