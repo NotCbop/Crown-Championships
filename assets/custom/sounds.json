@@ -528,5 +528,30 @@
     "sounds": [
       "custom:main/death"
     ]
+  },
+     "parkourwarrior.medal1": {
+    "sounds": [
+      "custom:pkw/parkourwarrior_medal1"
+    ]
+  },
+     "parkourwarrior.medal2": {
+    "sounds": [
+      "custom:pkw/parkourwarrior_medal2"
+    ]
+  },
+     "parkourwarrior.medal3": {
+    "sounds": [
+      "custom:pkw/parkourwarrior_medal3"
+    ]
+  },
+     "parkourwarrior.title": {
+    "sounds": [
+      "custom:pkw/parkour_warrior_title"
+    ]
+  },
+     "parkourwarrior.portal": {
+    "sounds": [
+      "custom:pkw/parkour_warrior_portal"
+    ]
   }
 }
