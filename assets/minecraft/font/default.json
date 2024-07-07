@@ -542,6 +542,24 @@
         "type": "bitmap"
      },
   {
+        "file": "custom:font/util/redarrow.png",
+        "chars": [
+        "🚧"
+        ],
+        "height": 9,
+        "ascent": 8,
+        "type": "bitmap"
+     },
+  { 
+        "file": "custom:font/util/greenarrow.png",
+        "chars": [
+        "🎖"
+        ],
+        "height": 9,
+        "ascent": 8,
+        "type": "bitmap"
+     },
+  {
         "file": "custom:font/roster.png",
         "chars": [
         "🏆"
