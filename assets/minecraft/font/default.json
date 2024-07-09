@@ -400,7 +400,7 @@
         {
           "file": "custom:font/fx/anim1.png",
           "chars": [
-            "⬆️"
+            "🔮"
           ],
           "height": 90,
           "ascent": 80,
@@ -518,6 +518,33 @@
         "file": "custom:font/fx/kill5.png",
         "chars": [
        "🍖"
+        ],
+        "height": 90,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/complete_easy.png",
+        "chars": [
+       "🕋"
+        ],
+        "height": 90,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/complete_medium.png",
+        "chars": [
+       "🍯"
+        ],
+        "height": 90,
+        "ascent": 80,
+        "type": "bitmap"
+     },
+  {
+        "file": "custom:font/fx/complete_hard.png",
+        "chars": [
+       "🎇"
         ],
         "height": 90,
         "ascent": 80,
