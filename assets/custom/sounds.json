@@ -524,6 +524,11 @@
       "custom:eventbegin"
     ]
   },
+       "daisy": {
+    "sounds": [
+      "custom:daisy"
+    ]
+  },
      "dodgebolt.death": {
     "sounds": [
       "custom:main/death"
