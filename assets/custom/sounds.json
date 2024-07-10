@@ -529,6 +529,11 @@
       "custom:daisy"
     ]
   },
+       "YAHOO": {
+    "sounds": [
+      "custom:YAHOO"
+    ]
+  },
      "dodgebolt.death": {
     "sounds": [
       "custom:main/death"
