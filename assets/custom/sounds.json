@@ -1,567 +1,525 @@
 {
-  "battlebox.track": {
-    "sounds": [
-      "custom:battlebox_track"
-    ]
-  },
-  "skybattle.track": {
-    "sounds": [
-      "custom:skybattle_track"
-    ]
-  },
-  "parkourtag.track": {
-    "sounds": [
-      "custom:parkourtag_track"
-    ]
-  },
-  "tgttos.track": {
-    "sounds": [
-      "custom:tgttos_track"
-    ]
-  },
-  "acerace.track": {
-    "sounds": [
-      "custom:acerace_track"
-    ]
-  },
-  "gridrunners.track": {
-    "sounds": [
-      "custom:gridrunners_track"
-    ]
-  },
-  "acerace.speed": {
-    "sounds": [
-      "custom:ar/acerace_speed"
-    ]
-  },
-  "acerace.jump": {
-    "sounds": [
-      "custom:ar/acerace_jump"
-    ]
-  },
-  "acerace.launch": {
-    "sounds": [
-      "custom:ar/acerace_launch"
-    ]
-  },
-  "acerace.aqua": {
-    "sounds": [
-      "custom:ar/acerace_aqua"
-    ]
-  },
-  "acerace.lap": {
-    "sounds": [
-      "custom:ar/acerace_lap"
-    ]
-  },
-  "acerace.slow": {
-    "sounds": [
-      "custom:ar/acerace_slow"
-    ]
-  },
-  "tsf.gliding": {
-    "sounds": [
-      "custom:tgttos/tsf_gliding"
-    ]
-  },
-  "tsf.start": {
-    "sounds": [
-      "custom:tgttos/tsf_start"
-    ]
-  },
-  "decisiondome.track": {
-    "sounds": [
-      "custom:decisiondome_track"
-    ]
-  },
-  "overtime.tensec": {
-    "sounds": [
-      "custom:overtime_tensec"
-    ]
-  },
-  "overtime.twomin": {
-    "sounds": [
-      "custom:overtime_twomin"
-	]
-  },
-  "overtime.thirtysec": {
-    "sounds": [
-      "custom:overtime_thirtysec"
-    ]
-  },
-  "oneminutetomcc.track": {
-    "sounds": [
-      "custom:oneminutetomcc_track"
-    ]
-  },
-  "walkoffame.track": {
-    "sounds": [
-      "custom:walkoffame_track"
-    ]
-  },
-  "rocketspleefrush.track": {
-    "sounds": [
-      "custom:rocketspleefrush_track"
-    ]
-  },
-  "holeinthewall.track": {
-    "sounds": [
-      "custom:holeinthewall_track"
-    ]
-  },
-  "parkourwarrior.track": {
-    "sounds": [
-      "custom:parkourwarrior_track"
-    ]
-  },
-  "parkourwarrior.scroll": {
-    "sounds": [
-      "custom:pkw/parkourwarrior_scroll"
-    ]
-  },
-  "parkourwarrior.finnish": {
-    "sounds": [
-      "custom:pkw/parkourwarrior_finnish"
-    ]
-  },
-   "buildmart.track": {
-    "sounds": [
-      "custom:buildmart_track"
-    ]
-  },
-   "alert": {
-    "sounds": [
-      "custom:alert"
-    ]
-  },
-  "dodgebolt.track": {
-    "sounds": [
-      "custom:dodgebolt_track"
-    ]
-  },
-  "rocketspleefrush.updraft": {
-    "sounds": [
-      "custom:rsr/rocketspleef_updraft"
-    ]
-  },
-  "rocketspleefrush.alert1": {
-    "sounds": [
-      "custom:rsr/rocketspleef_alert1"
-    ]
-  },
-  "rocketspleefrush.alert2": {
-    "sounds": [
-      "custom:rsr/rocketspleef_alert2"
-    ]
-  },
-  "gridrunners.blastoff": {
-    "sounds": [
-      "custom:gr/gridrunners_blastoff"
-    ]
-  },
-  "gridrunners.correctitem": {
-    "sounds": [
-      "custom:gr/gridrunners_correctitem"
-    ]
-  },
-  "gridrunners.intro": {
-    "sounds": [
-      "custom:gr/gridrunners_intro"
-    ]
-  },
-  "gridrunners.opponentroomclear": {
-    "sounds": [
-      "custom:gr/gridrunners_opponentroomclear"
-    ]
-  },
-  "gridrunners.playerfinnish": {
-    "sounds": [
-      "custom:gr/gridrunners_playerfinnish"
-    ]
-  },
-  "gridrunners.ready": {
-    "sounds": [
-      "custom:gr/gridrunners_ready"
-    ]
-  },
-  "gridrunners.roombegin": {
-    "sounds": [
-      "custom:gr/gridrunners_roombegin"
-    ]
-  },
-  "gridrunners.roomcomplete": {
-    "sounds": [
-      "custom:gr/gridrunners_roomcomplete"
-    ]
-  },
-  "gridrunners.targethit": {
-    "sounds": [
-      "custom:gr/gridrunners_targethit"
-    ]
-  },
-  "gridrunners.teamfinnish": {
-    "sounds": [
-      "custom:gr/gridrunners_teamfinnish"
-    ]
-  },
-  "meltdown.alarmloop": {
-    "sounds": [
-      "custom:md/meltdown_alarmloop"
-    ]
-  },
-   "meltdown.alarmstart": {
-    "sounds": [
-      "custom:md/meltdown_alarmstart"
-    ]
-  },
-   "meltdown.bowhit": {
-    "sounds": [
-      "custom:md/meltdown_bowhit"
-    ]
-  },
-   "meltdown.entrance": {
-    "sounds": [
-      "custom:md/meltdown_entrance"
-    ]
-  },
-   "meltdown.frozen": {
-    "sounds": [
-      "custom:md/meltdown_frozen"
-    ]
-  },
-   "meltdown.heaterbreak": {
-    "sounds": [
-      "custom:md/meltdown_heaterbreak"
-    ]
-  },
-   "meltdown.heaterrecharge": {
-    "sounds": [
-      "custom:md/meltdown_heaterrecharge"
-    ]
-  },
-   "meltdown.heatersound": {
-    "sounds": [
-      "custom:md/meltdown_heatersound"
-    ]
-  },
-   "meltdown.shoot": {
-    "sounds": [
-      "custom:md/meltdown_shoot"
-    ]
-  },
-   "meltdown.teammatefrozen": {
-    "sounds": [
-      "custom:md/meltdown_teamatefreeze"
-    ]
-  },
-   "meltdown.teammateunfreeze": {
-    "sounds": [
-      "custom:md/meltdown_teamateunfreeze"
-    ]
-  },
-   "meltdown.telepickaxe": {
-    "sounds": [
-      "custom:md/meltdown_telepickaxe"
-    ]
-  },
-   "meltdown.unfrozen": {
-    "sounds": [
-      "custom:md/meltdown_unfrozen"
-    ]
-  },
-   "meltdown.heaterplace": {
-    "sounds": [
-      "custom:md/meltdown_heaterplace"
-    ]
-  },
-   "meltdown.rickoshet": {
-    "sounds": [
-      "custom:md/rickochet1"
-    ]
-  },
-   "acerace.wall": {
-    "sounds": [
-      "custom:ar/acerace_wall"
-    ]
-  },
-   "acerace.slowlap": {
-    "sounds": [
-      "custom:ar/acerace_slowlap"
-    ]
-  },
-   "acerace.fastlap": {
-    "sounds": [
-      "custom:ar/acerace_fastlap"
-    ]
-  },
-     "acerace.dolphin": {
-    "sounds": [
-      "custom:ar/acerace_dolphin"
-    ]
-  },
-     "acerace.trident": {
-    "sounds": [
-      "custom:ar/acerace_trident"
-    ]
-  },
-     "acerace.turtle": {
-    "sounds": [
-      "custom:ar/acerace_turtle"
-    ]
-  },
-     "acerace.aqua_launcher1": {
-    "sounds": [
-      "custom:ar/acerace.aqua_launcher.1"
-    ]
-  },
-     "acerace.aqua_launcher2": {
-    "sounds": [
-      "custom:ar/acerace.aqua_launcher.2"
-    ]
-  },
-     "acerace.aqua_launcher3": {
-    "sounds": [
-      "custom:ar/acerace.aqua_launcher.3"
-    ]
-  },
-     "acerace.remove": {
-    "sounds": [
-      "custom:ar/acerace_remove"
-    ]
-  },
-     "acerace.finnish": {
-    "sounds": [
-      "custom:ar/acerace_finnish"
-    ]
-  },
-     "survivalgames.track": {
-    "sounds": [
-      "custom:survivalgames_track"
-    ]
-  },
-     "meltdown.track": {
-    "sounds": [
-      "custom:meltdown_track"
-    ]
-  },
-     "duel.track": {
-    "sounds": [
-      "custom:duel_track"
-    ]
-  },
-     "dodgebolt.win": {
-    "sounds": [
-      "custom:dodgebolt_win"
-    ]
-  },
-     "timer.ding": {
-    "sounds": [
-      "custom:timerding"
-    ]
-  },
-     "decisiondome.tick": {
-    "sounds": [
-      "custom:main/decisiondome_spin"
-    ]
-  },
-     "dunk": {
-    "sounds": [
-      "custom:main/dunk"
-    ]
-  },
-     "elevator.break": {
-    "sounds": [
-      "custom:main/elevator_break"
-    ]
-  },
-     "elevator.creak": {
-    "sounds": [
-      "custom:main/elevator_creak"
-    ]
-  },
-       "game.reveal": {
-    "sounds": [
-      "custom:main/gamereveal"
-    ]
-  },
-       "game.selected": {
-    "sounds": [
-      "custom:main/gameselected"
-    ]
-  },
-       "grace.period": {
-    "sounds": [
-      "custom:main/grace_period"
-    ]
-  },
-       "map.alert": {
-    "sounds": [
-      "custom:main/mapalert"
-    ]
-  },
-     "map.update": {
-    "sounds": [
-      "custom:main/mapupdate"
-    ]
-  },
-       "map.update.complete": {
-    "sounds": [
-      "custom:main/mapupdatecomplete1"
-    ]
-  },
-       "multiplier.increase": {
-    "sounds": [
-      "custom:main/multiplier_increase"
-    ]
-  },
-       "newgames.reveal": {
-    "sounds": [
-      "custom:main/newgames_reveal"
-    ]
-  },
-       "npc.cheering": {
-    "sounds": [
-      "custom:main/npc_cheering_1"
-    ]
-  },
-       "objective.complete": {
-    "sounds": [
-      "custom:main/objectivecomplete"
-    ]
-	},
-     "score.acquired": {
-    "sounds": [
-      "custom:main/scoreacquired"
-    ]
-  },
-       "score.unacquired": {
-    "sounds": [
-      "custom:main/scoreunacquired"
-    ]
-  },
-       "shrink": {
-    "sounds": [
-      "custom:main/shrink"
-    ]
-  },
-       "border_shrink": {
-    "sounds": [
-      "custom:main/border_shrink"
-    ]
-  },
-       "small.coins": {
-    "sounds": [
-      "custom:main/smallcoins"
-    ]
-  },
-       "take.over": {
-    "sounds": [
-      "custom:main/takeover"
-    ]
-  },
-       "team.eliminated": {
-    "sounds": [
-      "custom:main/teameliminated"
-    ]
-  },
-       "text.pop": {
-    "sounds": [
-      "custom:main/textpop"
-    ]
-  },
-       "decisiondome.spin": {
-    "sounds": [
-      "custom:dd/spin"
-    ]
-  },
-       "decisiondome.vacuum": {
-    "sounds": [
-      "custom:dd/vacuum"
-    ]
-  },
-       "decisiondome.click1": {
-    "sounds": [
-      "custom:dd/click1"
-    ]
-  },
-       "decisiondome.click2": {
-    "sounds": [
-      "custom:dd/click2"
-    ]
-  },
-       "decisiondome.click3": {
-    "sounds": [
-      "custom:dd/click3"
-    ]
-  },
-       "decisiondome.click4": {
-    "sounds": [
-      "custom:dd/click4"
-    ]
-  },
-       "decisiondome.click5": {
-    "sounds": [
-      "custom:dd/click5"
-    ]
-  },
-       "decisiondome.click6": {
-    "sounds": [
-      "custom:dd/click6"
-    ]
-  },
-       "gameentry": {
-    "sounds": [
-      "custom:gameentry"
-    ]
-  },
-	"gameintro": {
-    "sounds": [
-      "custom:gameintro"
-    ]
-  },
-       "horn": {
-    "sounds": [
-      "custom:eventbegin"
-    ]
-  },
-       "daisy": {
-    "sounds": [
-      "custom:daisy"
-    ]
-  },
-       "yahoo": {
-    "sounds": [
-      "custom:yahoo"
-    ]
-  },
-     "dodgebolt.death": {
-    "sounds": [
-      "custom:main/death"
-    ]
-  },
-     "parkourwarrior.medal1": {
-    "sounds": [
-      "custom:pkw/parkourwarrior_medal1"
-    ]
-  },
-     "parkourwarrior.medal2": {
-    "sounds": [
-      "custom:pkw/parkourwarrior_medal2"
-    ]
-  },
-     "parkourwarrior.medal3": {
-    "sounds": [
-      "custom:pkw/parkourwarrior_medal3"
-    ]
-  },
-     "parkourwarrior.title": {
-    "sounds": [
-      "custom:pkw/parkour_warrior_title"
-    ]
-  },
-     "parkourwarrior.portal": {
-    "sounds": [
-      "custom:pkw/parkour_warrior_portal"
-    ]
-  }
+  "games.ace_race.aqua_launcher": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.ace_race.aqua_launcher.3",
+        "volume": 0.5,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.aqua_launcher.1",
+        "volume": 0.5,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.aqua_launcher.2",
+        "volume": 0.5,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.ace_race.jump_pad": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.ace_race.jump_pad.1",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.jump_pad.3",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.jump_pad.2",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.ace_race.speed_boost": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.ace_race.speed_boost.1",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.speed_boost.2",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.speed_boost.3",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.ace_race.wing_ring": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.ace_race.wing_ring.2",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.wing_ring.1",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      },
+      {
+        "name": "madness:games.ace_race.wing_ring.3",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.countdown.123": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.countdown.123",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.countdown.go": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.countdown.go",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.ace_race.up_pad": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.ace_race.up_pad",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.music.gameintro": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.music.gameintro",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.objective.objective_completed": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.objective.objective_completed",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "decision_dome.game_selected": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:decision_dome.game_selected",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.objective.map.update": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.objective.map.update",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.score.acquired": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.score.acquired",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "games.global.music.roundendmusic": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "madness:games.global.music.roundendmusic",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
+  "ar.slow_field": { "sounds": ["madness:slow_field"] },
+  "ar.trident_zone": { "sounds": ["madness:trident_zone"] },
+  "ar.dolphin_zone": { "sounds": ["madness:dolphin_zone"] },
+  "ar.elytra_zone": { "sounds": ["madness:elytra_zone"] },
+  "ar.remove_item": { "sounds": ["madness:ar/remove_item"] },
+  "ar.turtle_bonk": {
+    "sounds": [
+      "madness:ar/turtle_bonk1",
+      "madness:ar/turtle_bonk2",
+      "madness:ar/turtle_bonk3"
+    ]
+  },
+  "ar.wall_slide_loop": {
+    "sounds": [
+      "madness:ar/wall_slide_loop1",
+      "madness:ar/wall_slide_loop2",
+      "madness:ar/wall_slide_loop3",
+      "madness:ar/wall_slide_loop4"
+    ]
+  },
+  "main.123": { "sounds": ["madness:main/123"] },
+  "main.bigcoins": { "sounds": ["madness:main/bigcoins"] },
+  "main.bigscoreacquired": { "sounds": ["madness:main/bigscoreacquired"] },
+  "main.border_shrink": { "sounds": ["madness:main/border_shrink"] },
+  "main.duelists_announce": { "sounds": ["madness:main/duelists_announce"] },
+  "main.bridge_extend": { "sounds": ["madness:main/bridge_extend"] },
+  "main.click": {
+    "sounds": [
+      "madness:main/click1",
+      "madness:main/click2",
+      "madness:main/click3",
+      "madness:main/click4",
+      "madness:main/click5",
+      "madness:main/click6",
+      "madness:main/click7"
+    ]
+  },
+  "main.clocktickhigh": { "sounds": ["madness:main/clocktickhigh"] },
+  "main.clockticknormal": { "sounds": ["madness:main/clockticknormal"] },
+  "main.ddspin": {
+    "sounds": [
+      "madness:main/ddspin1",
+      "madness:main/ddspin2",
+      "madness:main/ddspin3",
+      "madness:main/ddspin4",
+      "madness:main/ddspin5",
+      "madness:main/ddspin6",
+      "madness:main/ddspin7",
+      "madness:main/ddspin8",
+      "madness:main/ddspin9",
+      "madness:main/ddspin10",
+      "madness:main/ddspin11",
+      "madness:main/ddspin12",
+      "madness:main/ddspin13",
+      "madness:main/ddspin14",
+      "madness:main/ddspin15",
+      "madness:main/ddspin16"
+    ]
+  },
+  "main.dunk": { "sounds": ["madness:main/dunk"] },
+  "main.elevator_break": { "sounds": ["madness:main/elevator_break"] },
+  "main.elevator_creak": {
+    "sounds": [
+      "madness:main/elevator_creak1",
+      "madness:main/elevator_creak2",
+      "madness:main/elevator_creak3"
+    ]
+  },
+  "main.eliminationpop": { "sounds": ["madness:main/eliminationpop"] },
+  "main.enemy_complete": { "sounds": ["madness:main/enemy_complete"] },
+  "main.enemy_lockout": { "sounds": ["madness:main/enemy_lockout"] },
+  "main.eventbegin": { "sounds": ["madness:main/eventbegin"] },
+  "main.gameendmusic": { "sounds": ["madness:main/gameendmusic"] },
+  "main.gameintro": { "sounds": ["madness:main/gameintro"] },
+  "main.gamereveal": { "sounds": ["madness:main/gamereveal"] },
+  "main.gameselected": { "sounds": ["madness:main/gameselected"] },
+  "main.go": { "sounds": ["madness:main/go"] },
+  "main.grace_period": { "sounds": ["madness:main/grace_period"] },
+  "main.hubtick": { "sounds": ["madness:main/hubtick"] },
+  "main.mapalert": { "sounds": ["madness:main/mapalert"] },
+  "main.mapupdate": { "sounds": ["madness:main/mapupdate"] },
+  "main.mapupdatecomplete1": { "sounds": ["madness:main/mapupdatecomplete1"] },
+  "main.mapupdatecomplete2": { "sounds": ["madness:main/mapupdatecomplete2"] },
+  "main.multiplier_increase": {
+    "sounds": ["madness:main/multiplier_increase"]
+  },
+  "main.newgames_reveal": { "sounds": ["madness:main/newgames_reveal"] },
+  "main.notcrew": { "sounds": ["madness:main/notcrew"] },
+  "main.npc_cheering": {
+    "sounds": [
+      "madness:main/npc_cheering_1",
+      "madness:main/npc_cheering_2",
+      "madness:main/npc_cheering_3",
+      "madness:main/npc_cheering_4",
+      "madness:main/npc_cheering_5",
+      "madness:main/npc_cheering_6"
+    ]
+  },
+  "main.countdown_announce": {
+    "sounds": ["madness:main/countdown_announce"]
+  },
+  "ar.aqua_jet": {
+    "sounds": ["madness:aqua_jet1", "madness:aqua_jet2", "madness:aqua_jet3"]
+  },
+  "ar.jump_big": {
+    "sounds": ["madness:jump_big1", "madness:jump_big2", "madness:jump_big3"]
+  },
+  "gr.button_push": {
+    "sounds": ["madness:gr/button_push1", "madness:gr/button_push2"]
+  },
+  "gr.golf_knockback": {
+    "sounds": [
+      "madness:gr/golf_knockback1",
+      "madness:gr/golf_knockback2",
+      "madness:gr/golf_knockback3"
+    ]
+  },
+  "gr.key_loop": {
+    "sounds": [
+      "madness:gr/key_loop1",
+      "madness:gr/key_loop2",
+      "madness:gr/key_loop3",
+      "madness:gr/key_loop4",
+      "madness:gr/key_loop5"
+    ]
+  },
+  "gr.target_hit": {
+    "sounds": [
+      "madness:gr/target_hit1",
+      "madness:gr/target_hit2",
+      "madness:gr/target_hit3"
+    ]
+  },
+  "gr.blastoff": { "sounds": ["madness:gr/blastoff"] },
+  "gr.cake_eat": { "sounds": ["madness:gr/cake_eat"] },
+  "gr.finish": { "sounds": ["madness:gr/finish"] },
+  "gr.food_correct": { "sounds": ["madness:gr/food_correct"] },
+  "gr.grid_runners_intro": { "sounds": ["madness:gr/grid_runners_intro"] },
+  "gr.grid_runners_win": { "sounds": ["madness:gr/grid_runners_win"] },
+  "gr.key_pickup": { "sounds": ["madness:gr/key_pickup"] },
+  "gr.key_unlock": { "sounds": ["madness:gr/key_unlock"] },
+  "gr.playersrequired": { "sounds": ["madness:gr/playersrequired"] },
+  "gr.playersrequired_complete": {
+    "sounds": ["madness:gr/playersrequired_complete"]
+  },
+  "gr.room_cake": { "sounds": ["madness:gr/room_cake"] },
+  "gr.room_clean": { "sounds": ["madness:gr/room_clean"] },
+  "gr.room_complete": { "sounds": ["madness:gr/room_complete"] },
+  "gr.room_complete_enemy": { "sounds": ["madness:gr/room_complete_enemy"] },
+  "gr.room_cook": { "sounds": ["madness:gr/room_cook"] },
+  "gr.room_copy": { "sounds": ["madness:gr/room_copy"] },
+  "gr.room_crossing": { "sounds": ["madness:gr/room_crossing"] },
+  "gr.room_dtb": { "sounds": ["madness:gr/room_dtb"] },
+  "gr.room_golf": { "sounds": ["madness:gr/room_golf"] },
+  "gr.room_key": { "sounds": ["madness:gr/room_key"] },
+  "gr.room_lamps": { "sounds": ["madness:gr/room_lamps"] },
+  "gr.room_target": { "sounds": ["madness:gr/room_target"] },
+  "gr.room_title": { "sounds": ["madness:gr/room_title"] },
+  "gr.teammate_finishline": { "sounds": ["madness:gr/teammate_finishline"] },
+  "md.bow": {
+    "sounds": [
+      "madness:meltdown/bow1",
+      "madness:meltdown/bow2",
+      "madness:meltdown/bow3"
+    ]
+  },
+  "md.ricochet": {
+    "sounds": [
+      "madness:meltdown/ricochet1",
+      "madness:meltdown/ricochet2",
+      "madness:meltdown/ricochet3"
+    ]
+  },
+  "md.bow_hit": { "sounds": ["madness:meltdown/bow_hit"] },
+  "md.heater_break": { "sounds": ["madness:meltdown/heater_break"] },
+  "md.heater_loop_1000ms": {
+    "sounds": ["madness:meltdown/heater_loop_1000ms"]
+  },
+  "md.heater_place": { "sounds": ["madness:meltdown/heater_place"] },
+  "md.heater_recharge": { "sounds": ["madness:meltdown/heater_recharge"] },
+  "md.meltdown_alarm_loop_1000ms": {
+    "sounds": ["madness:meltdown/meltdown_alarm_loop_1000ms"]
+  },
+  "md.meltdown_alarm_loop_1500ms": {
+    "sounds": ["madness:meltdown/meltdown_alarm_loop_1500ms"]
+  },
+  "md.meltdown_alarm_start_1000ms": {
+    "sounds": ["madness:meltdown/meltdown_alarm_start_1000ms"]
+  },
+  "md.meltdown_alarm_start_3000ms": {
+    "sounds": ["madness:meltdown/meltdown_alarm_start_3000ms"]
+  },
+  "md.meltdown_entrance": { "sounds": ["madness:meltdown/meltdown_entrance"] },
+  "md.meltdown_frozen": { "sounds": ["madness:meltdown/meltdown_frozen"] },
+  "md.meltdown_unfrozen": { "sounds": ["madness:meltdown/meltdown_unfrozen"] },
+  "md.teammate_freeze": { "sounds": ["madness:meltdown/teammate_freeze"] },
+  "md.teammate_unfreeze": { "sounds": ["madness:meltdown/teammate_unfreeze"] },
+  "md.telepickaxe": { "sounds": ["madness:meltdown/telepickaxe"] },
+  "main.overtimeintro": { "sounds": ["madness:main/overtimeintro"] },
+  "main.overtimeloop": { "sounds": ["madness:main/overtimeloop"] },
+  "main.roundend": { "sounds": ["madness:main/roundend"] },
+  "main.roundendmusic": { "sounds": ["madness:main/roundendmusic"] },
+  "main.scoreacquired": { "sounds": ["madness:main/scoreacquired"] },
+  "main.scoreunacquired": { "sounds": ["madness:main/scoreunacquired"] },
+  "main.shrink": { "sounds": ["madness:main/shrink"] },
+  "main.shrink_short": { "sounds": ["madness:main/shrink_short"] },
+  "main.smallcoins": { "sounds": ["madness:main/smallcoins"] },
+  "main.takeover": { "sounds": ["madness:main/takeover"] },
+  "main.teameliminated": { "sounds": ["madness:main/teameliminated"] },
+  "main.textpop": { "sounds": ["madness:main/textpop"] },
+  "main.unowhoop": { "sounds": ["madness:main/unowhoop"] },
+  "main.vacuum": { "sounds": ["madness:main/vacuum"] },
+  "main.winsound": { "sounds": ["madness:main/winsound"] },
+  "ui.click_normal": {
+    "sounds": [
+      "madness:ui/click_normal_1",
+      "madness:ui/click_normal_2",
+      "madness:ui/click_normal_3"
+    ]
+  },
+  "dodgebolt.arena_shrink": { "sounds": ["madness:dodgebolt/arena_shrink"] },
+  "dodgebolt.finalwin": { "sounds": ["madness:dodgebolt/finalwin"] },
+  "music.ace_race_main": { "sounds": ["madness:music/ace_race_main"] },
+  "music.battle_box_main": { "sounds": ["madness:music/battle_box_main"] },
+  "music.decisiondome": { "sounds": ["madness:music/decisiondome"] },
+  "music.dodgebolt": { "sounds": ["madness:music/dodgebolt"] },
+  "music.dodgebolt_fast": { "sounds": ["madness:music/dodgebolt_fast"] },
+  "music.eventintro": { "sounds": ["madness:music/eventintro"] },
+  "music.finalannounce": { "sounds": ["madness:music/finalannounce"] },
+  "music.parkourtag": { "sounds": ["madness:music/parkourtag"] },
+  "music.parkourwarrior": { "sounds": ["madness:music/parkourwarrior"] },
+  "music.rocketspleefrush": { "sounds": ["madness:music/rocketspleefrush"] },
+  "music.skybattle": { "sounds": ["madness:music/skybattle"] },
+  "music.survivalgames": { "sounds": ["madness:music/survivalgames"] },
+  "music.tgttosawaf": { "sounds": ["madness:music/tgttosawaf"] },
+  "music.walkoffame": { "sounds": ["madness:music/walkoffame"] },
+  "music.gridrunners": { "sounds": ["madness:music/gridrunners"] },
+  "music.meltdown": { "sounds": ["madness:music/meltdown"] },
+  "rsr.rocket_spleef_alert1": {
+    "sounds": ["madness:rsr/rocket_spleef_alert1"]
+  },
+  "rsr.rocket_spleef_alert2": {
+    "sounds": ["madness:rsr/rocket_spleef_alert2"]
+  },
+  "rsr.rocket_spleef_updraft": {
+    "sounds": ["madness:rsr/rocket_spleef_updraft"]
+  },
+  "main.meme_search": { "sounds": ["madness:main/meme_search"] }
 }
