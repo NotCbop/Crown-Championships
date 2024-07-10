@@ -3,7 +3,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.ace_race.aqua_launcher.3",
+        "name": "custom:games.ace_race.aqua_launcher.3",
         "volume": 0.5,
         "pitch": 1.0,
         "weight": 1,
@@ -13,7 +13,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.aqua_launcher.1",
+        "name": "custom:games.ace_race.aqua_launcher.1",
         "volume": 0.5,
         "pitch": 1.0,
         "weight": 1,
@@ -23,7 +23,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.aqua_launcher.2",
+        "name": "custom:games.ace_race.aqua_launcher.2",
         "volume": 0.5,
         "pitch": 1.0,
         "weight": 1,
@@ -38,7 +38,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.ace_race.jump_pad.1",
+        "name": "custom:games.ace_race.jump_pad.1",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -48,7 +48,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.jump_pad.3",
+        "name": "custom:games.ace_race.jump_pad.3",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -58,7 +58,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.jump_pad.2",
+        "name": "custom:games.ace_race.jump_pad.2",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -73,7 +73,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.ace_race.speed_boost.1",
+        "name": "custom:games.ace_race.speed_boost.1",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -83,7 +83,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.speed_boost.2",
+        "name": "custom:games.ace_race.speed_boost.2",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -93,7 +93,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.speed_boost.3",
+        "name": "custom:games.ace_race.speed_boost.3",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -108,7 +108,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.ace_race.wing_ring.2",
+        "name": "custom:games.ace_race.wing_ring.2",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -118,7 +118,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.wing_ring.1",
+        "name": "custom:games.ace_race.wing_ring.1",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -128,7 +128,7 @@
         "channels": 2
       },
       {
-        "name": "madness:games.ace_race.wing_ring.3",
+        "name": "custom:games.ace_race.wing_ring.3",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -143,7 +143,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.countdown.123",
+        "name": "custom:games.global.countdown.123",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -158,7 +158,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.countdown.go",
+        "name": "custom:games.global.countdown.go",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -173,7 +173,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.ace_race.up_pad",
+        "name": "custom:games.ace_race.up_pad",
         "volume": 0.7,
         "pitch": 1.0,
         "weight": 1,
@@ -188,7 +188,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.music.gameintro",
+        "name": "custom:games.global.music.gameintro",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -203,7 +203,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.objective.objective_completed",
+        "name": "custom:games.global.objective.objective_completed",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -218,7 +218,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:decision_dome.game_selected",
+        "name": "custom:decision_dome.game_selected",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -233,7 +233,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.objective.map.update",
+        "name": "custom:games.global.objective.map.update",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -248,7 +248,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.score.acquired",
+        "name": "custom:games.global.score.acquired",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -263,7 +263,7 @@
     "replace": false,
     "sounds": [
       {
-        "name": "madness:games.global.music.roundendmusic",
+        "name": "custom:games.global.music.roundendmusic",
         "volume": 1.0,
         "pitch": 1.0,
         "weight": 1,
@@ -274,252 +274,252 @@
       }
     ]
   },
-  "ar.slow_field": { "sounds": ["madness:slow_field"] },
-  "ar.trident_zone": { "sounds": ["madness:trident_zone"] },
-  "ar.dolphin_zone": { "sounds": ["madness:dolphin_zone"] },
-  "ar.elytra_zone": { "sounds": ["madness:elytra_zone"] },
-  "ar.remove_item": { "sounds": ["madness:ar/remove_item"] },
+  "ar.slow_field": { "sounds": ["custom:slow_field"] },
+  "ar.trident_zone": { "sounds": ["custom:trident_zone"] },
+  "ar.dolphin_zone": { "sounds": ["custom:dolphin_zone"] },
+  "ar.elytra_zone": { "sounds": ["custom:elytra_zone"] },
+  "ar.remove_item": { "sounds": ["custom:ar/remove_item"] },
   "ar.turtle_bonk": {
     "sounds": [
-      "madness:ar/turtle_bonk1",
-      "madness:ar/turtle_bonk2",
-      "madness:ar/turtle_bonk3"
+      "custom:ar/turtle_bonk1",
+      "custom:ar/turtle_bonk2",
+      "custom:ar/turtle_bonk3"
     ]
   },
   "ar.wall_slide_loop": {
     "sounds": [
-      "madness:ar/wall_slide_loop1",
-      "madness:ar/wall_slide_loop2",
-      "madness:ar/wall_slide_loop3",
-      "madness:ar/wall_slide_loop4"
+      "custom:ar/wall_slide_loop1",
+      "custom:ar/wall_slide_loop2",
+      "custom:ar/wall_slide_loop3",
+      "custom:ar/wall_slide_loop4"
     ]
   },
-  "main.123": { "sounds": ["madness:main/123"] },
-  "main.bigcoins": { "sounds": ["madness:main/bigcoins"] },
-  "main.bigscoreacquired": { "sounds": ["madness:main/bigscoreacquired"] },
-  "main.border_shrink": { "sounds": ["madness:main/border_shrink"] },
-  "main.duelists_announce": { "sounds": ["madness:main/duelists_announce"] },
-  "main.bridge_extend": { "sounds": ["madness:main/bridge_extend"] },
+  "main.123": { "sounds": ["custom:main/123"] },
+  "main.bigcoins": { "sounds": ["custom:main/bigcoins"] },
+  "main.bigscoreacquired": { "sounds": ["custom:main/bigscoreacquired"] },
+  "main.border_shrink": { "sounds": ["custom:main/border_shrink"] },
+  "main.duelists_announce": { "sounds": ["custom:main/duelists_announce"] },
+  "main.bridge_extend": { "sounds": ["custom:main/bridge_extend"] },
   "main.click": {
     "sounds": [
-      "madness:main/click1",
-      "madness:main/click2",
-      "madness:main/click3",
-      "madness:main/click4",
-      "madness:main/click5",
-      "madness:main/click6",
-      "madness:main/click7"
+      "custom:main/click1",
+      "custom:main/click2",
+      "custom:main/click3",
+      "custom:main/click4",
+      "custom:main/click5",
+      "custom:main/click6",
+      "custom:main/click7"
     ]
   },
-  "main.clocktickhigh": { "sounds": ["madness:main/clocktickhigh"] },
-  "main.clockticknormal": { "sounds": ["madness:main/clockticknormal"] },
+  "main.clocktickhigh": { "sounds": ["custom:main/clocktickhigh"] },
+  "main.clockticknormal": { "sounds": ["custom:main/clockticknormal"] },
   "main.ddspin": {
     "sounds": [
-      "madness:main/ddspin1",
-      "madness:main/ddspin2",
-      "madness:main/ddspin3",
-      "madness:main/ddspin4",
-      "madness:main/ddspin5",
-      "madness:main/ddspin6",
-      "madness:main/ddspin7",
-      "madness:main/ddspin8",
-      "madness:main/ddspin9",
-      "madness:main/ddspin10",
-      "madness:main/ddspin11",
-      "madness:main/ddspin12",
-      "madness:main/ddspin13",
-      "madness:main/ddspin14",
-      "madness:main/ddspin15",
-      "madness:main/ddspin16"
+      "custom:main/ddspin1",
+      "custom:main/ddspin2",
+      "custom:main/ddspin3",
+      "custom:main/ddspin4",
+      "custom:main/ddspin5",
+      "custom:main/ddspin6",
+      "custom:main/ddspin7",
+      "custom:main/ddspin8",
+      "custom:main/ddspin9",
+      "custom:main/ddspin10",
+      "custom:main/ddspin11",
+      "custom:main/ddspin12",
+      "custom:main/ddspin13",
+      "custom:main/ddspin14",
+      "custom:main/ddspin15",
+      "custom:main/ddspin16"
     ]
   },
-  "main.dunk": { "sounds": ["madness:main/dunk"] },
-  "main.elevator_break": { "sounds": ["madness:main/elevator_break"] },
+  "main.dunk": { "sounds": ["custom:main/dunk"] },
+  "main.elevator_break": { "sounds": ["custom:main/elevator_break"] },
   "main.elevator_creak": {
     "sounds": [
-      "madness:main/elevator_creak1",
-      "madness:main/elevator_creak2",
-      "madness:main/elevator_creak3"
+      "custom:main/elevator_creak1",
+      "custom:main/elevator_creak2",
+      "custom:main/elevator_creak3"
     ]
   },
-  "main.eliminationpop": { "sounds": ["madness:main/eliminationpop"] },
-  "main.enemy_complete": { "sounds": ["madness:main/enemy_complete"] },
-  "main.enemy_lockout": { "sounds": ["madness:main/enemy_lockout"] },
-  "main.eventbegin": { "sounds": ["madness:main/eventbegin"] },
-  "main.gameendmusic": { "sounds": ["madness:main/gameendmusic"] },
-  "main.gameintro": { "sounds": ["madness:main/gameintro"] },
-  "main.gamereveal": { "sounds": ["madness:main/gamereveal"] },
-  "main.gameselected": { "sounds": ["madness:main/gameselected"] },
-  "main.go": { "sounds": ["madness:main/go"] },
-  "main.grace_period": { "sounds": ["madness:main/grace_period"] },
-  "main.hubtick": { "sounds": ["madness:main/hubtick"] },
-  "main.mapalert": { "sounds": ["madness:main/mapalert"] },
-  "main.mapupdate": { "sounds": ["madness:main/mapupdate"] },
-  "main.mapupdatecomplete1": { "sounds": ["madness:main/mapupdatecomplete1"] },
-  "main.mapupdatecomplete2": { "sounds": ["madness:main/mapupdatecomplete2"] },
+  "main.eliminationpop": { "sounds": ["custom:main/eliminationpop"] },
+  "main.enemy_complete": { "sounds": ["custom:main/enemy_complete"] },
+  "main.enemy_lockout": { "sounds": ["custom:main/enemy_lockout"] },
+  "main.eventbegin": { "sounds": ["custom:main/eventbegin"] },
+  "main.gameendmusic": { "sounds": ["custom:main/gameendmusic"] },
+  "main.gameintro": { "sounds": ["custom:main/gameintro"] },
+  "main.gamereveal": { "sounds": ["custom:main/gamereveal"] },
+  "main.gameselected": { "sounds": ["custom:main/gameselected"] },
+  "main.go": { "sounds": ["custom:main/go"] },
+  "main.grace_period": { "sounds": ["custom:main/grace_period"] },
+  "main.hubtick": { "sounds": ["custom:main/hubtick"] },
+  "main.mapalert": { "sounds": ["custom:main/mapalert"] },
+  "main.mapupdate": { "sounds": ["custom:main/mapupdate"] },
+  "main.mapupdatecomplete1": { "sounds": ["custom:main/mapupdatecomplete1"] },
+  "main.mapupdatecomplete2": { "sounds": ["custom:main/mapupdatecomplete2"] },
   "main.multiplier_increase": {
-    "sounds": ["madness:main/multiplier_increase"]
+    "sounds": ["custom:main/multiplier_increase"]
   },
-  "main.newgames_reveal": { "sounds": ["madness:main/newgames_reveal"] },
-  "main.notcrew": { "sounds": ["madness:main/notcrew"] },
+  "main.newgames_reveal": { "sounds": ["custom:main/newgames_reveal"] },
+  "main.notcrew": { "sounds": ["custom:main/notcrew"] },
   "main.npc_cheering": {
     "sounds": [
-      "madness:main/npc_cheering_1",
-      "madness:main/npc_cheering_2",
-      "madness:main/npc_cheering_3",
-      "madness:main/npc_cheering_4",
-      "madness:main/npc_cheering_5",
-      "madness:main/npc_cheering_6"
+      "custom:main/npc_cheering_1",
+      "custom:main/npc_cheering_2",
+      "custom:main/npc_cheering_3",
+      "custom:main/npc_cheering_4",
+      "custom:main/npc_cheering_5",
+      "custom:main/npc_cheering_6"
     ]
   },
   "main.countdown_announce": {
-    "sounds": ["madness:main/countdown_announce"]
+    "sounds": ["custom:main/countdown_announce"]
   },
   "ar.aqua_jet": {
-    "sounds": ["madness:aqua_jet1", "madness:aqua_jet2", "madness:aqua_jet3"]
+    "sounds": ["custom:aqua_jet1", "custom:aqua_jet2", "custom:aqua_jet3"]
   },
   "ar.jump_big": {
-    "sounds": ["madness:jump_big1", "madness:jump_big2", "madness:jump_big3"]
+    "sounds": ["custom:jump_big1", "custom:jump_big2", "custom:jump_big3"]
   },
   "gr.button_push": {
-    "sounds": ["madness:gr/button_push1", "madness:gr/button_push2"]
+    "sounds": ["custom:gr/button_push1", "custom:gr/button_push2"]
   },
   "gr.golf_knockback": {
     "sounds": [
-      "madness:gr/golf_knockback1",
-      "madness:gr/golf_knockback2",
-      "madness:gr/golf_knockback3"
+      "custom:gr/golf_knockback1",
+      "custom:gr/golf_knockback2",
+      "custom:gr/golf_knockback3"
     ]
   },
   "gr.key_loop": {
     "sounds": [
-      "madness:gr/key_loop1",
-      "madness:gr/key_loop2",
-      "madness:gr/key_loop3",
-      "madness:gr/key_loop4",
-      "madness:gr/key_loop5"
+      "custom:gr/key_loop1",
+      "custom:gr/key_loop2",
+      "custom:gr/key_loop3",
+      "custom:gr/key_loop4",
+      "custom:gr/key_loop5"
     ]
   },
   "gr.target_hit": {
     "sounds": [
-      "madness:gr/target_hit1",
-      "madness:gr/target_hit2",
-      "madness:gr/target_hit3"
+      "custom:gr/target_hit1",
+      "custom:gr/target_hit2",
+      "custom:gr/target_hit3"
     ]
   },
-  "gr.blastoff": { "sounds": ["madness:gr/blastoff"] },
-  "gr.cake_eat": { "sounds": ["madness:gr/cake_eat"] },
-  "gr.finish": { "sounds": ["madness:gr/finish"] },
-  "gr.food_correct": { "sounds": ["madness:gr/food_correct"] },
-  "gr.grid_runners_intro": { "sounds": ["madness:gr/grid_runners_intro"] },
-  "gr.grid_runners_win": { "sounds": ["madness:gr/grid_runners_win"] },
-  "gr.key_pickup": { "sounds": ["madness:gr/key_pickup"] },
-  "gr.key_unlock": { "sounds": ["madness:gr/key_unlock"] },
-  "gr.playersrequired": { "sounds": ["madness:gr/playersrequired"] },
+  "gr.blastoff": { "sounds": ["custom:gr/blastoff"] },
+  "gr.cake_eat": { "sounds": ["custom:gr/cake_eat"] },
+  "gr.finish": { "sounds": ["custom:gr/finish"] },
+  "gr.food_correct": { "sounds": ["custom:gr/food_correct"] },
+  "gr.grid_runners_intro": { "sounds": ["custom:gr/grid_runners_intro"] },
+  "gr.grid_runners_win": { "sounds": ["custom:gr/grid_runners_win"] },
+  "gr.key_pickup": { "sounds": ["custom:gr/key_pickup"] },
+  "gr.key_unlock": { "sounds": ["custom:gr/key_unlock"] },
+  "gr.playersrequired": { "sounds": ["custom:gr/playersrequired"] },
   "gr.playersrequired_complete": {
-    "sounds": ["madness:gr/playersrequired_complete"]
+    "sounds": ["custom:gr/playersrequired_complete"]
   },
-  "gr.room_cake": { "sounds": ["madness:gr/room_cake"] },
-  "gr.room_clean": { "sounds": ["madness:gr/room_clean"] },
-  "gr.room_complete": { "sounds": ["madness:gr/room_complete"] },
-  "gr.room_complete_enemy": { "sounds": ["madness:gr/room_complete_enemy"] },
-  "gr.room_cook": { "sounds": ["madness:gr/room_cook"] },
-  "gr.room_copy": { "sounds": ["madness:gr/room_copy"] },
-  "gr.room_crossing": { "sounds": ["madness:gr/room_crossing"] },
-  "gr.room_dtb": { "sounds": ["madness:gr/room_dtb"] },
-  "gr.room_golf": { "sounds": ["madness:gr/room_golf"] },
-  "gr.room_key": { "sounds": ["madness:gr/room_key"] },
-  "gr.room_lamps": { "sounds": ["madness:gr/room_lamps"] },
-  "gr.room_target": { "sounds": ["madness:gr/room_target"] },
-  "gr.room_title": { "sounds": ["madness:gr/room_title"] },
-  "gr.teammate_finishline": { "sounds": ["madness:gr/teammate_finishline"] },
+  "gr.room_cake": { "sounds": ["custom:gr/room_cake"] },
+  "gr.room_clean": { "sounds": ["custom:gr/room_clean"] },
+  "gr.room_complete": { "sounds": ["custom:gr/room_complete"] },
+  "gr.room_complete_enemy": { "sounds": ["custom:gr/room_complete_enemy"] },
+  "gr.room_cook": { "sounds": ["custom:gr/room_cook"] },
+  "gr.room_copy": { "sounds": ["custom:gr/room_copy"] },
+  "gr.room_crossing": { "sounds": ["custom:gr/room_crossing"] },
+  "gr.room_dtb": { "sounds": ["custom:gr/room_dtb"] },
+  "gr.room_golf": { "sounds": ["custom:gr/room_golf"] },
+  "gr.room_key": { "sounds": ["custom:gr/room_key"] },
+  "gr.room_lamps": { "sounds": ["custom:gr/room_lamps"] },
+  "gr.room_target": { "sounds": ["custom:gr/room_target"] },
+  "gr.room_title": { "sounds": ["custom:gr/room_title"] },
+  "gr.teammate_finishline": { "sounds": ["custom:gr/teammate_finishline"] },
   "md.bow": {
     "sounds": [
-      "madness:meltdown/bow1",
-      "madness:meltdown/bow2",
-      "madness:meltdown/bow3"
+      "custom:meltdown/bow1",
+      "custom:meltdown/bow2",
+      "custom:meltdown/bow3"
     ]
   },
   "md.ricochet": {
     "sounds": [
-      "madness:meltdown/ricochet1",
-      "madness:meltdown/ricochet2",
-      "madness:meltdown/ricochet3"
+      "custom:meltdown/ricochet1",
+      "custom:meltdown/ricochet2",
+      "custom:meltdown/ricochet3"
     ]
   },
-  "md.bow_hit": { "sounds": ["madness:meltdown/bow_hit"] },
-  "md.heater_break": { "sounds": ["madness:meltdown/heater_break"] },
+  "md.bow_hit": { "sounds": ["custom:meltdown/bow_hit"] },
+  "md.heater_break": { "sounds": ["custom:meltdown/heater_break"] },
   "md.heater_loop_1000ms": {
-    "sounds": ["madness:meltdown/heater_loop_1000ms"]
+    "sounds": ["custom:meltdown/heater_loop_1000ms"]
   },
-  "md.heater_place": { "sounds": ["madness:meltdown/heater_place"] },
-  "md.heater_recharge": { "sounds": ["madness:meltdown/heater_recharge"] },
+  "md.heater_place": { "sounds": ["custom:meltdown/heater_place"] },
+  "md.heater_recharge": { "sounds": ["custom:meltdown/heater_recharge"] },
   "md.meltdown_alarm_loop_1000ms": {
-    "sounds": ["madness:meltdown/meltdown_alarm_loop_1000ms"]
+    "sounds": ["custom:meltdown/meltdown_alarm_loop_1000ms"]
   },
   "md.meltdown_alarm_loop_1500ms": {
-    "sounds": ["madness:meltdown/meltdown_alarm_loop_1500ms"]
+    "sounds": ["custom:meltdown/meltdown_alarm_loop_1500ms"]
   },
   "md.meltdown_alarm_start_1000ms": {
-    "sounds": ["madness:meltdown/meltdown_alarm_start_1000ms"]
+    "sounds": ["custom:meltdown/meltdown_alarm_start_1000ms"]
   },
   "md.meltdown_alarm_start_3000ms": {
-    "sounds": ["madness:meltdown/meltdown_alarm_start_3000ms"]
+    "sounds": ["custom:meltdown/meltdown_alarm_start_3000ms"]
   },
-  "md.meltdown_entrance": { "sounds": ["madness:meltdown/meltdown_entrance"] },
-  "md.meltdown_frozen": { "sounds": ["madness:meltdown/meltdown_frozen"] },
-  "md.meltdown_unfrozen": { "sounds": ["madness:meltdown/meltdown_unfrozen"] },
-  "md.teammate_freeze": { "sounds": ["madness:meltdown/teammate_freeze"] },
-  "md.teammate_unfreeze": { "sounds": ["madness:meltdown/teammate_unfreeze"] },
-  "md.telepickaxe": { "sounds": ["madness:meltdown/telepickaxe"] },
-  "main.overtimeintro": { "sounds": ["madness:main/overtimeintro"] },
-  "main.overtimeloop": { "sounds": ["madness:main/overtimeloop"] },
-  "main.roundend": { "sounds": ["madness:main/roundend"] },
-  "main.roundendmusic": { "sounds": ["madness:main/roundendmusic"] },
-  "main.scoreacquired": { "sounds": ["madness:main/scoreacquired"] },
-  "main.scoreunacquired": { "sounds": ["madness:main/scoreunacquired"] },
-  "main.shrink": { "sounds": ["madness:main/shrink"] },
-  "main.shrink_short": { "sounds": ["madness:main/shrink_short"] },
-  "main.smallcoins": { "sounds": ["madness:main/smallcoins"] },
-  "main.takeover": { "sounds": ["madness:main/takeover"] },
-  "main.teameliminated": { "sounds": ["madness:main/teameliminated"] },
-  "main.textpop": { "sounds": ["madness:main/textpop"] },
-  "main.unowhoop": { "sounds": ["madness:main/unowhoop"] },
-  "main.vacuum": { "sounds": ["madness:main/vacuum"] },
-  "main.winsound": { "sounds": ["madness:main/winsound"] },
+  "md.meltdown_entrance": { "sounds": ["custom:meltdown/meltdown_entrance"] },
+  "md.meltdown_frozen": { "sounds": ["custom:meltdown/meltdown_frozen"] },
+  "md.meltdown_unfrozen": { "sounds": ["custom:meltdown/meltdown_unfrozen"] },
+  "md.teammate_freeze": { "sounds": ["custom:meltdown/teammate_freeze"] },
+  "md.teammate_unfreeze": { "sounds": ["custom:meltdown/teammate_unfreeze"] },
+  "md.telepickaxe": { "sounds": ["custom:meltdown/telepickaxe"] },
+  "main.overtimeintro": { "sounds": ["custom:main/overtimeintro"] },
+  "main.overtimeloop": { "sounds": ["custom:main/overtimeloop"] },
+  "main.roundend": { "sounds": ["custom:main/roundend"] },
+  "main.roundendmusic": { "sounds": ["custom:main/roundendmusic"] },
+  "main.scoreacquired": { "sounds": ["custom:main/scoreacquired"] },
+  "main.scoreunacquired": { "sounds": ["custom:main/scoreunacquired"] },
+  "main.shrink": { "sounds": ["custom:main/shrink"] },
+  "main.shrink_short": { "sounds": ["custom:main/shrink_short"] },
+  "main.smallcoins": { "sounds": ["custom:main/smallcoins"] },
+  "main.takeover": { "sounds": ["custom:main/takeover"] },
+  "main.teameliminated": { "sounds": ["custom:main/teameliminated"] },
+  "main.textpop": { "sounds": ["custom:main/textpop"] },
+  "main.unowhoop": { "sounds": ["custom:main/unowhoop"] },
+  "main.vacuum": { "sounds": ["custom:main/vacuum"] },
+  "main.winsound": { "sounds": ["custom:main/winsound"] },
   "ui.click_normal": {
     "sounds": [
-      "madness:ui/click_normal_1",
-      "madness:ui/click_normal_2",
-      "madness:ui/click_normal_3"
+      "custom:ui/click_normal_1",
+      "custom:ui/click_normal_2",
+      "custom:ui/click_normal_3"
     ]
   },
-  "dodgebolt.arena_shrink": { "sounds": ["madness:dodgebolt/arena_shrink"] },
-  "dodgebolt.finalwin": { "sounds": ["madness:dodgebolt/finalwin"] },
-  "music.ace_race_main": { "sounds": ["madness:music/ace_race_main"] },
-  "music.battle_box_main": { "sounds": ["madness:music/battle_box_main"] },
-  "music.decisiondome": { "sounds": ["madness:music/decisiondome"] },
-  "music.dodgebolt": { "sounds": ["madness:music/dodgebolt"] },
-  "music.dodgebolt_fast": { "sounds": ["madness:music/dodgebolt_fast"] },
-  "music.eventintro": { "sounds": ["madness:music/eventintro"] },
-  "music.finalannounce": { "sounds": ["madness:music/finalannounce"] },
-  "music.parkourtag": { "sounds": ["madness:music/parkourtag"] },
-  "music.parkourwarrior": { "sounds": ["madness:music/parkourwarrior"] },
-  "music.rocketspleefrush": { "sounds": ["madness:music/rocketspleefrush"] },
-  "music.skybattle": { "sounds": ["madness:music/skybattle"] },
-  "music.survivalgames": { "sounds": ["madness:music/survivalgames"] },
-  "music.tgttosawaf": { "sounds": ["madness:music/tgttosawaf"] },
-  "music.walkoffame": { "sounds": ["madness:music/walkoffame"] },
-  "music.gridrunners": { "sounds": ["madness:music/gridrunners"] },
-  "music.meltdown": { "sounds": ["madness:music/meltdown"] },
+  "dodgebolt.arena_shrink": { "sounds": ["custom:dodgebolt/arena_shrink"] },
+  "dodgebolt.finalwin": { "sounds": ["custom:dodgebolt/finalwin"] },
+  "music.ace_race_main": { "sounds": ["custom:music/ace_race_main"] },
+  "music.battle_box_main": { "sounds": ["custom:music/battle_box_main"] },
+  "music.decisiondome": { "sounds": ["custom:music/decisiondome"] },
+  "music.dodgebolt": { "sounds": ["custom:music/dodgebolt"] },
+  "music.dodgebolt_fast": { "sounds": ["custom:music/dodgebolt_fast"] },
+  "music.eventintro": { "sounds": ["custom:music/eventintro"] },
+  "music.finalannounce": { "sounds": ["custom:music/finalannounce"] },
+  "music.parkourtag": { "sounds": ["custom:music/parkourtag"] },
+  "music.parkourwarrior": { "sounds": ["custom:music/parkourwarrior"] },
+  "music.rocketspleefrush": { "sounds": ["custom:music/rocketspleefrush"] },
+  "music.skybattle": { "sounds": ["custom:music/skybattle"] },
+  "music.survivalgames": { "sounds": ["custom:music/survivalgames"] },
+  "music.tgttosawaf": { "sounds": ["custom:music/tgttosawaf"] },
+  "music.walkoffame": { "sounds": ["custom:music/walkoffame"] },
+  "music.gridrunners": { "sounds": ["custom:music/gridrunners"] },
+  "music.meltdown": { "sounds": ["custom:music/meltdown"] },
   "rsr.rocket_spleef_alert1": {
-    "sounds": ["madness:rsr/rocket_spleef_alert1"]
+    "sounds": ["custom:rsr/rocket_spleef_alert1"]
   },
   "rsr.rocket_spleef_alert2": {
-    "sounds": ["madness:rsr/rocket_spleef_alert2"]
+    "sounds": ["custom:rsr/rocket_spleef_alert2"]
   },
   "rsr.rocket_spleef_updraft": {
-    "sounds": ["madness:rsr/rocket_spleef_updraft"]
+    "sounds": ["custom:rsr/rocket_spleef_updraft"]
   },
-  "main.meme_search": { "sounds": ["madness:main/meme_search"] }
+  "main.meme_search": { "sounds": ["custom:main/meme_search"] }
 }
