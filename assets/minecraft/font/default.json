@@ -649,6 +649,42 @@
         "ascent": 8,
         "type": "bitmap"
      },
+  { 
+      "file": "custom:font/util/circleempty.png",
+      "chars": [
+      "🏵"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+     },
+  { 
+      "file": "custom:font/util/circlefull.png",
+      "chars": [
+      "🔰"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+     },
+  { 
+      "file": "custom:font/util/crownempty.png",
+      "chars": [
+      "🏐"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+     },
+  { 
+      "file": "custom:font/util/crownfull.png",
+      "chars": [
+      "🐹"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+     },
   {
         "file": "custom:font/roster.png",
         "chars": [
