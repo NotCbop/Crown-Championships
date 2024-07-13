@@ -685,6 +685,15 @@
       "ascent": 8,
       "type": "bitmap"
      },
+  { 
+      "file": "custom:font/util/dome.png",
+      "chars": [
+      "🏧"
+      ],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+     },
   {
         "file": "custom:font/roster.png",
         "chars": [
