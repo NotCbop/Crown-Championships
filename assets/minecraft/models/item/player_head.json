@@ -1,11 +1,1 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/template_skull",
-	"gui_light": "front",
-	"display": {
-		"gui": {
-			"translation": [0, 7, 0],
-			"scale": [1.8, 1.8, 1.8]
-		}
-	}
-}
+{"textures":{"particle":"block/soul_sand"},"parent":"builtin/entity","display":{"gui":{"translation":[0.0,7.0,0.0],"rotation":[0.0,0.0,0.0],"scale":[1.7,1.7,1.7]},"fixed":{"translation":[0.0,4.0,0.0],"rotation":[0.0,180.0,0.0],"scale":[1.0,1.0,1.0]},"ground":{"translation":[0.0,3.0,0.0],"rotation":[0.0,0.0,0.0],"scale":[0.5,0.5,0.5]},"thirdperson_lefthand":{"translation":[-6.0,3.0,29.5],"rotation":[70.0,180.0,0.0],"scale":[2.7,2.7,2.7]},"firstperson_lefthand":{"translation":[-6.0,3.0,29.5],"rotation":[70.0,180.0,0.0],"scale":[0.0,0.0,0.0]},"thirdperson_righthand":{"translation":[0.0,3.0,0.0],"rotation":[45.0,45.0,0.0],"scale":[0.5,0.5,0.5]}},"gui_light":"front"}

@@ -1,14 +1,1 @@
-{
-  "pack": {
-    "pack_format": 13,
-    "description": "Crown Championship Server Resource Pack",
-    "supported_formats": 13
-  },
-  "language": {},
-  "filter": {
-    "block": []
-  },
-  "overlays": {
-    "entries": []
-  }
-}
+{"pack":{"pack_format":18,"description":"Crown Championship Event Resource Pack"},"meta":{"game_version":"1.20.4"}}

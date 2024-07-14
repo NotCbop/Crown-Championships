@@ -1,6 +1,1 @@
-{
-	"parent": "minecraft:block/carpet",
-	"textures": {
-		"wool": "minecraft:model_textures/speed_pad"
-	}
-}
+{"textures":{"wool":"block/magenta_concrete"},"parent":"block/carpet"}

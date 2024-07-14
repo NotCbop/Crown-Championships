@@ -1,0 +1,3 @@
+#version 150
+#moj_import <fog.glsl>
+in vec3 Position;uniform mat4 ModelViewMat;uniform mat4 ProjMat;uniform float FogEnd;uniform int FogShape;out mat4 ProjInv;out float isSky;out float vertexDistance;void main(){vec3 scaledPos=Position;isSky=0.;if(abs(scaledPos.y-16.)<0.004&&(length(scaledPos.xz)<=0.004||abs(length(scaledPos.xz)-512.)<0.004)){isSky=1.;if(length(scaledPos.xz)>1.)scaledPos.y=-32.;scaledPos.xyz*=0.01;scaledPos=scaledPos.xzy;scaledPos.z*=-1;gl_Position=ProjMat*vec4(scaledPos,1.);}else gl_Position=ProjMat*ModelViewMat*vec4(scaledPos,1.);ProjInv=inverse(ProjMat*ModelViewMat);vertexDistance=fog_distance_vanilla(ModelViewMat,Position,FogShape);}
