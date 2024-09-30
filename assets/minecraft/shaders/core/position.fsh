@@ -1,3 +1,0 @@
-#version 150
-#moj_import <fog.glsl>
-uniform vec4 ColorModulator;uniform vec2 ScreenSize;uniform float FogStart;uniform float FogEnd;uniform vec4 FogColor;uniform float GameTime;in mat4 ProjInv;in float vertexDistance;in float isSky;in float isStar;in vec3 viewDir;in vec2 starUv;in vec3 starDir;out vec4 fragColor;void main(){vec4 fogColor=FogColor;if(isSky>0.5){fragColor=vec4(ColorModulator.rgb,1.);vec4 screenPos=gl_FragCoord;screenPos.xy=(screenPos.xy/ScreenSize-vec2(0.5))*2.;screenPos.zw=vec2(1.);vec3 view=normalize((ProjInv*screenPos).xyz);float ndusq=clamp(dot(view,vec3(0.,1.,0.)),0.,1.);ndusq=ndusq*ndusq;fragColor=linear_fog_vanilla(fragColor,pow(1.-ndusq,8.),0.,1.,fogColor);}else fragColor=linear_fog_vanilla(ColorModulator,vertexDistance,FogStart,FogEnd,FogColor);}

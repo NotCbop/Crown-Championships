@@ -1,7 +1,6 @@
 #version 150
 
 #moj_import <fog.glsl>
-
 #moj_import <emissives_config_impl.glsl>
 
 uniform sampler2D Sampler0;
@@ -15,7 +14,6 @@ in float vertexDistance;
 in vec4 vertexColor;
 in vec2 texCoord0;
 in vec2 texCoord1;
-in vec4 normal;
 
 in vec4 lightMapValue;
 in vec4 normalLightValue;
@@ -35,7 +33,7 @@ void main() {
         // Discard if the alpha of the pixel is of value of 254, 251, 250, 201, 181, 180, 141, 140, 101, 100.
         // 254, 201, 101 are normal.
         // 251 is for emissive.
-        if(alpha == 254.0 / 255.0 || alpha == 251.0 / 255.0 || alpha == 250.0 / 255.0 || alpha == 201.0 / 255.0 || alpha == 181.0 / 255.0 || alpha == 180.0 / 255.0 || alpha == 141.0 / 255.0 || alpha == 140.0 / 255.0 || alpha == 100.0 / 255.0 || alpha == 101.0 / 255.0) {
+        if(alpha == 254.0 / 255.0 || alpha == 251.0 / 255.0 || alpha == 250.0 / 255.0 || alpha == 201.0 / 255.0 || alpha == 181.0 / 255.0 || alpha == 180.0 / 255.0 || alpha == 141.0 / 255.0 || alpha == 140.0 / 255.0 || alpha == 101.0 / 255.0 || alpha == 100.0 / 255.0) {
             discard;
         }
     }

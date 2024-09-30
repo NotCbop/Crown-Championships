@@ -1,2 +1,0 @@
-#version 150
-in vec4 vertexColor;in vec4 position;in float dis;uniform vec4 ColorModulator;out vec4 fragColor;void main(){if(dis>0.1&&position.z>-0.6&&position.z<-0.199)discard;vec4 color=vertexColor;if(color.a==0.)discard;fragColor=color*ColorModulator;}

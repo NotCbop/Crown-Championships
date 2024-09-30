@@ -13,13 +13,11 @@ uniform vec4 FogColor;
 
 in float vertexDistance;
 in vec4 vertexColor;
-in vec2 texCoord0;
-in vec2 texCoord1;
-in vec4 normal;
-
-in vec4 lightMapValue;
-in vec4 normalLightValue;
+in vec4 lightMapColor;
 in vec4 overlayColor;
+in vec2 texCoord0;
+
+in vec4 normalLightValue;
 
 out vec4 fragColor;
 
@@ -28,6 +26,6 @@ void main() {
     if (color.a < 0.1) {
         discard;
     }
-    color = applyLighting(getAlpha(color.a), mix(overlayColor, color * vertexColor, overlayColor.a), normalLightValue, lightMapValue);
+    color = applyLighting(getAlpha(color.a), mix(overlayColor, color * vertexColor, overlayColor.a), normalLightValue, lightMapColor);
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor) * ColorModulator;
 }
