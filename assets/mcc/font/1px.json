@@ -1,1 +1,1 @@
-{"providers":[{"type":"space","advances":{" ":4}},{"type":"unihex","hex_file":"mcc:0.zip","size_overrides":[{"from":"\u0001","to":"\u0002","left":1,"right":1}]}]}
+{"providers":[{"type":"space","advances":{" ":4}},{"type":"legacy_unicode","sizes":"mcc:0.bin","template":"mcc:0_%s.png"}]}
