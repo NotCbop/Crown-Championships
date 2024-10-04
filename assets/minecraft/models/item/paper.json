@@ -1,1 +1,18 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/paper"},"overrides":[{"predicate":{"custom_model_data":1},"model":"crown:gr/puzzle_button_off"},{"predicate":{"custom_model_data":2},"model":"crown:gr/puzzle_button_on"},{"predicate":{"custom_model_data":3},"model":"mcc/textures/_fonts/spark_of_speed"}]}
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/paper" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "crown:gr/puzzle_button_off"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "crown:gr/puzzle_button_on"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "mcc/textures/_fonts/spark_of_speed"
+    }
+  ]
+}
