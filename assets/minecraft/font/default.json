@@ -715,6 +715,13 @@
     },
     {
       "type": "bitmap",
+      "file": "font/ui/crown_admin.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["🔰"]
+    },
+    {
+      "type": "bitmap",
       "file": "font/ui/alert_r.png",
       "ascent": 7,
       "height": 8,
