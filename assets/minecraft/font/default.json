@@ -701,13 +701,6 @@
     },
     {
       "type": "bitmap",
-      "file": "font/ui/roster.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": ["🔰"]
-    },
-    {
-      "type": "bitmap",
       "file": "font/ui/skullnew.png",
       "ascent": 7,
       "height": 8,
