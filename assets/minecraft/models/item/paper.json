@@ -12,6 +12,10 @@
     },
     {
       "predicate": { "custom_model_data": 3 },
+      "model": "crown:sg/gravestone"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
       "model": "mcc/textures/_fonts/spark_of_speed"
     }
   ]
