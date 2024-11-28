@@ -16,7 +16,7 @@
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "mcc/textures/_fonts/spark_of_speed"
+      "model": "crown:spark_of_speed"
     }
   ]
 }
