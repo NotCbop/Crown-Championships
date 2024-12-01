@@ -57,6 +57,10 @@
     {
       "predicate": { "custom_model_data": 14 },
       "model": "mcc:island_interface/button/confirm/pressed"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "mcc:island_interface/battle_box/kit_selection"
     }
   ]
 }
