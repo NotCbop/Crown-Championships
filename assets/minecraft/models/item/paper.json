@@ -45,6 +45,18 @@
     {
       "predicate": { "custom_model_data": 11 },
       "model": "mcc:island_items/battle_box/spark_of_speed"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "mcc:island_interface/button/confirm/button"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "mcc:island_interface/button/confirm/gray"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "mcc:island_interface/button/confirm/pressed"
     }
   ]
 }
