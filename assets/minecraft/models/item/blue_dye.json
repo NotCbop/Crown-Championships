@@ -105,6 +105,10 @@
     {
       "predicate": { "custom_model_data": 101 },
       "model": "crown:dd/elevator_sign"
+    },
+    {
+      "predicate": { "custom_model_data": 102 },
+      "model": "crown:md/ice_block"
     }
   ]
 }
