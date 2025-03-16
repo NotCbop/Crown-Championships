@@ -109,6 +109,118 @@
     {
       "predicate": { "custom_model_data": 102 },
       "model": "crown:md/ice_block"
+    },
+    {
+      "predicate": { "custom_model_data": 103 },
+      "model": "crown:md/ice_block_2"
+    },
+    {
+      "predicate": { "custom_model_data": 104 },
+      "model": "crown:md/ice_block_3"
+    },
+    {
+      "predicate": { "custom_model_data": 105 },
+      "model": "crown:md/ice_block_4"
+    },
+    {
+      "predicate": { "custom_model_data": 106 },
+      "model": "crown:md/ice_block_elim"
+    },
+    {
+      "predicate": { "custom_model_data": 107 },
+      "model": "crown:md/ice_block_e"
+    },
+    {
+      "predicate": { "custom_model_data": 108 },
+      "model": "crown:md/ice_block_2_e"
+    },
+    {
+      "predicate": { "custom_model_data": 109 },
+      "model": "crown:md/ice_block_3_e"
+    },
+    {
+      "predicate": { "custom_model_data": 110 },
+      "model": "crown:md/ice_block_4_e"
+    },
+    {
+      "predicate": { "custom_model_data": 111 },
+      "model": "crown:md/ice_block_elim_e"
+    },
+    {
+      "predicate": { "custom_model_data": 112 },
+      "model": "crown:md/puddle"
+    },
+    {
+      "predicate": { "custom_model_data": 113 },
+      "model": "crown:md/packed_ice_held"
+    },
+    {
+      "predicate": { "custom_model_data": 114 },
+      "model": "crown:md/telepickaxe_empty"
+    },
+    {
+      "predicate": { "custom_model_data": 115 },
+      "model": "crown:md/telepickaxe"
+    },
+    {
+      "predicate": { "custom_model_data": 116 },
+      "model": "crown:md/heater_1"
+    },
+    {
+      "predicate": { "custom_model_data": 117 },
+      "model": "crown:md/heater_2"
+    },
+    {
+      "predicate": { "custom_model_data": 118 },
+      "model": "crown:md/heater_3"
+    },
+    {
+      "predicate": { "custom_model_data": 119 },
+      "model": "crown:md/heater_deployed"
+    },
+    {
+      "predicate": { "custom_model_data": 120 },
+      "model": "crown:md/heater_deployed_2"
+    },
+    {
+      "predicate": { "custom_model_data": 121 },
+      "model": "crown:md/heater_deployed_3"
+    },
+    {
+      "predicate": { "custom_model_data": 122 },
+      "model": "crown:md/heater_deployed_4"
+    },
+    {
+      "predicate": { "custom_model_data": 123 },
+      "model": "crown:md/held/held_red"
+    },
+    {
+      "predicate": { "custom_model_data": 124 },
+      "model": "crown:md/held/held_orange"
+    },
+    {
+      "predicate": { "custom_model_data": 125 },
+      "model": "crown:md/held/held_yellow"
+    },
+    {
+      "predicate": { "custom_model_data": 126 },
+      "model": "crown:md/held/held_lime"
+    },
+    {
+      "predicate": { "custom_model_data": 127 },
+      "model": "crown:md/held/held_aqua"
+    },
+    {
+      "predicate": { "custom_model_data": 128 },
+      "model": "crown:md/held/held_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 129 },
+      "model": "crown:md/held/held_purple"
+    },
+    {
+      "predicate": { "custom_model_data": 130 },
+      "model": "crown:md/held/held_pink"
     }
   ]
 }
