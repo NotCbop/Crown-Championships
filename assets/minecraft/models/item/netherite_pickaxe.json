@@ -1,0 +1,15 @@
+{
+	"textures": { "layer0": "item/netherite_pickaxe" },
+	"parent": "item/generated",
+	"overrides": [
+	  {
+		"predicate": { "custom_model_data": 1 },
+		"model": "crown:md/telepickaxe"
+	  },
+	  {
+		"predicate": { "custom_model_data": 2 },
+		"model": "crown:md/telepickaxe_empty"
+	  }
+	]
+  }
+  

@@ -156,70 +156,34 @@
     },
     {
       "predicate": { "custom_model_data": 114 },
-      "model": "crown:md/telepickaxe_empty"
-    },
-    {
-      "predicate": { "custom_model_data": 115 },
-      "model": "crown:md/telepickaxe"
-    },
-    {
-      "predicate": { "custom_model_data": 116 },
-      "model": "crown:md/heater_1"
-    },
-    {
-      "predicate": { "custom_model_data": 117 },
-      "model": "crown:md/heater_2"
-    },
-    {
-      "predicate": { "custom_model_data": 118 },
-      "model": "crown:md/heater_3"
-    },
-    {
-      "predicate": { "custom_model_data": 119 },
-      "model": "crown:md/heater_deployed"
-    },
-    {
-      "predicate": { "custom_model_data": 120 },
-      "model": "crown:md/heater_deployed_2"
-    },
-    {
-      "predicate": { "custom_model_data": 121 },
-      "model": "crown:md/heater_deployed_3"
-    },
-    {
-      "predicate": { "custom_model_data": 122 },
-      "model": "crown:md/heater_deployed_4"
-    },
-    {
-      "predicate": { "custom_model_data": 123 },
       "model": "crown:md/held/held_red"
     },
     {
-      "predicate": { "custom_model_data": 124 },
+      "predicate": { "custom_model_data": 115 },
       "model": "crown:md/held/held_orange"
     },
     {
-      "predicate": { "custom_model_data": 125 },
+      "predicate": { "custom_model_data": 116 },
       "model": "crown:md/held/held_yellow"
     },
     {
-      "predicate": { "custom_model_data": 126 },
+      "predicate": { "custom_model_data": 117 },
       "model": "crown:md/held/held_lime"
     },
     {
-      "predicate": { "custom_model_data": 127 },
+      "predicate": { "custom_model_data": 118 },
       "model": "crown:md/held/held_aqua"
     },
     {
-      "predicate": { "custom_model_data": 128 },
+      "predicate": { "custom_model_data": 119 },
       "model": "crown:md/held/held_blue"
     },
     {
-      "predicate": { "custom_model_data": 129 },
+      "predicate": { "custom_model_data": 120 },
       "model": "crown:md/held/held_purple"
     },
     {
-      "predicate": { "custom_model_data": 130 },
+      "predicate": { "custom_model_data": 121 },
       "model": "crown:md/held/held_pink"
     }
   ]
