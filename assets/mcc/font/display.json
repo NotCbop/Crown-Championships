@@ -194,6 +194,78 @@
             ],
             "ascent": 7,
             "height": 8
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/red_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/orange_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/yellow_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/lime_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/aqua_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/blue_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/purple_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/team/pink_big.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 9,
+            "height": 10
         }
     ]
 }
