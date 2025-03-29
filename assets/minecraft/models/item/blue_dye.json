@@ -185,10 +185,6 @@
     {
       "predicate": { "custom_model_data": 121 },
       "model": "crown:md/held/held_pink"
-    },
-    {
-      "predicate": { "custom_model_data": 122 },
-      "model": "crown:md/telepickaxe_empty"
     }
   ]
 }

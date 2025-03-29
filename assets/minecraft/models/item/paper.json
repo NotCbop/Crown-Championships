@@ -61,6 +61,10 @@
     {
       "predicate": { "custom_model_data": 15 },
       "model": "mcc:island_interface/battle_box/kit_selection"
+    },
+    {
+      "predicate": { "custom_model_data": 122 },
+      "model": "crown:md/telepickaxe_empty"
     }
   ]
 }
