@@ -49,7 +49,6 @@ TEXT_EFFECT(240, 240, 32) {
 
 TEXT_EFFECT(240, 240, 36) {
     override_text_color(rgb(255, 255, 255));
-    apply_chromatic_abberation();
     remove_text_shadow();
 }
 
