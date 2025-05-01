@@ -680,6 +680,13 @@
     },
     {
       "type": "bitmap",
+      "file": "unicode/icons/bp.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["◕"]
+    },
+    {
+      "type": "bitmap",
       "file": "font/ui/greenarrow.png",
       "ascent": 7,
       "height": 8,

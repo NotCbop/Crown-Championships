@@ -83,6 +83,10 @@
       "model": "crown:dd/dome_game_skyblockle"
     },
     {
+      "predicate": { "custom_model_data": 25 },
+      "model": "crown:dd/dome_game_brawl"
+    },
+    {
       "predicate": { "custom_model_data": 30 },
       "model": "crown:dd/dome_hidden"
     },
