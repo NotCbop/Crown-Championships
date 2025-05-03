@@ -42,8 +42,6 @@ TEXT_EFFECT(240, 240, 28) {
 }
 
 TEXT_EFFECT(240, 240, 32) {
-    override_text_color(rgb(86, 235, 86));
-    override_shadow_color(rgb(20, 80, 90));
     apply_shimmer();
 }
 
