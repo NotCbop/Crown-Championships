@@ -40,6 +40,11 @@
         },
         {
             "type": "directory",
+            "source": "unicode",
+            "prefix": "unicode/"
+        },
+        {
+            "type": "directory",
             "source": "variated",
             "prefix": "variated/"
         }
