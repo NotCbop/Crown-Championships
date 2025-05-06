@@ -12,6 +12,13 @@
 				"custom_model_data":1
 			},
 			    "model": "minecraft:item/map_tablet"
+		},
+		{
+		    "predicate": 
+			{
+				"custom_model_data":2
+			},
+			    "model": "minecraft:item/bingo_card"
 		}
 	]
 }
