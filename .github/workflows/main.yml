@@ -1,25 +1,30 @@
 name: Create Release on Push
+
 on:
   push:
     branches:
-      - 1.21 # Or specify other branches like ['main', 'develop']
+      - 1.21 # Or your desired default branch
+
 permissions:
   contents: write # Required to create releases and tags
+
 jobs:
   create-release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{ github.sha }}
-          release_name: v${{ github.sha }}
+          tag_name: v${{ github.run_number }}
+          release_name: v${{ github.run_number }}
           body: |
-            Automated release for commit ${{ github.sha }}
+            Automated release v${{ github.run_number }}
+            Triggered by commit: ${{ github.sha }}
           draft: false
           prerelease: false
