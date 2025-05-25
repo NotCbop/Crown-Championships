@@ -1,0 +1,1 @@
+{"textures":{"layer0":"item/cyan_dye"},"parent":"item/generated","overrides":[{"predicate":{"custom_model_data":1},"model":"item/coin/single_coin"}]}

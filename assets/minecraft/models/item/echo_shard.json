@@ -1,0 +1,1 @@
+{"textures":{"layer0":"item/echo_shard"},"parent":"item/generated","overrides":[{"predicate":{"custom_model_data":6692},"model":"mcc:event_interface/flight_speed"}]}

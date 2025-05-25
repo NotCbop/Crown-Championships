@@ -1,1 +1,1 @@
-{"textures":{"wool":"block/cyan_concrete"},"parent":"block/carpet"}
+{"textures":{"particle":"block/breadcrumbs/cyan","wool":"block/breadcrumbs/cyan"},"parent":"block/carpet"}

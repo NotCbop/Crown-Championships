@@ -1,1 +1,1 @@
-{"parent":"block/orientable","textures":{"top":"block/ztop","front":"block/z5","side":"block/zside"}}
+{"textures":{"top":"block/ztop","front":"block/z5","side":"block/zside"},"parent":"block/orientable"}

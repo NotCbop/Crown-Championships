@@ -1,0 +1,1 @@
+{"textures":{"layer0":"item/gold_ingot"},"parent":"item/generated","overrides":[{"predicate":{"custom_model_data":1},"model":"item/headwear/gold_crown"},{"predicate":{"custom_model_data":2},"model":"item/headwear/pumpking_crown"},{"predicate":{"custom_model_data":3},"model":"item/headwear/pumpking_wreath"}]}

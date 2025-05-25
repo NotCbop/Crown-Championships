@@ -1,1 +1,0 @@
-{"textures":{"layer0":"item/totem_of_undying"},"parent":"item/generated","overrides":[{"predicate":{"custom_model_data":1},"model":"parkour_warrior/scroll_closed"},{"predicate":{"custom_model_data":2},"model":"parkour_warrior/scroll_glowing"},{"predicate":{"custom_model_data":3},"model":"parkour_warrior/scroll_open"}]}

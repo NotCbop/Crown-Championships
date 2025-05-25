@@ -1,1 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/potion_overlay","layer1":"item/potion"},"overrides":[{"predicate":{"custom_model_data":1},"model":"crown:hub/coconut_drink"},{"predicate":{"custom_model_data":2},"model":"crown:hub/slushie_red"},{"predicate":{"custom_model_data":3},"model":"crown:hub/slushie_blue"}]}

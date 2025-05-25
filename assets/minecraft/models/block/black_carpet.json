@@ -1,1 +1,1 @@
-{"textures":{"wool":"block/black_concrete"},"parent":"block/carpet"}
+{"textures":{"particle":"block/breadcrumbs/black","wool":"block/breadcrumbs/black"},"parent":"block/carpet"}
