@@ -3,7 +3,7 @@ name: Create Incremental Release with Custom Flat Asset
 on:
   push:
     branches:
-      - 1.21
+      - sot
 
 permissions:
   contents: write # Required for creating releases, tags, and uploading assets
@@ -41,8 +41,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.versioner.outputs.version }}
-          release_name: Release ${{ steps.versioner.outputs.version }}
+          tag_name: ${{ steps.versioner.outputs.version }}-sot
+          release_name: Release ${{ steps.versioner.outputs.version }}-sot
           body: |
             Automated release ${{ steps.versioner.outputs.version }}
             Triggered by commit: ${{ github.sha }}
