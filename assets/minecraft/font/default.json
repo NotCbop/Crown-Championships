@@ -757,6 +757,13 @@
     },
     {
       "type": "bitmap",
+      "file": "font/ui/stats_breakdown.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⶘"]
+    },
+    {
+      "type": "bitmap",
       "file": "crown:custom/_font/transition.png",
       "ascent": 250,
       "height": 1200,
