@@ -1,0 +1,71 @@
+name: Create Incremental Release with Custom Flat Asset
+
+on:
+  push:
+    branches:
+      - bingo
+
+permissions:
+  contents: write # Required for creating releases, tags, and uploading assets
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    outputs:
+      new_version: ${{ steps.versioner.outputs.version }}
+      upload_url: ${{ steps.create_release_step.outputs.upload_url }} # Pass upload_url to other jobs if needed
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches all history for all branches and tags
+
+      - name: Get Next Version
+        id: versioner
+        run: |
+          git fetch --tags # Ensure all tags are fetched
+          LATEST_TAG=$(git tag -l 'v[0-9]*' --sort='version:refname' | tail -n 1)
+          if [ -z "$LATEST_TAG" ]; then
+            NEXT_VERSION="v1"
+          else
+            VERSION_NUM=$(echo "$LATEST_TAG" | sed 's/v//')
+            NEXT_VERSION_NUM=$((VERSION_NUM + 1))
+            NEXT_VERSION="v${NEXT_VERSION_NUM}"
+          fi
+          echo "Determined next version: $NEXT_VERSION"
+          echo "version=$NEXT_VERSION" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        id: create_release_step # Give this step an id to reference its outputs
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.versioner.outputs.version }}-bingo
+          release_name: Release ${{ steps.versioner.outputs.version }}-bingo
+          body: |
+            Automated release ${{ steps.versioner.outputs.version }}
+            Triggered by commit: ${{ github.sha }}
+          draft: false
+          prerelease: false
+
+      - name: Create custom flat archive
+        run: |
+          # This command creates a zip file named 'my-project-flat.zip'.
+          # It zips the contents of the current directory (your repository root).
+          # Files and folders from the current directory will be at the root of the zip.
+          # The '-x' flag excludes specified patterns. Adjust as needed.
+          zip -r pack.zip . -x ".git/*" -x ".github/*"
+          # If you only want to include specific files/folders at the root:
+          # zip -r my-project-flat.zip file1.txt assets/ docs/ main.py
+          # (Ensure these paths exist relative to your repository root)
+
+      - name: Upload Custom Release Asset (Flat Archive)
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release_step.outputs.upload_url }} # Get upload URL from the create_release_step
+          asset_path: ./pack.zip # Path to the zip file created in the previous step
+          asset_name: pack.zip # Desired name for the asset in the release
+          asset_content_type: application/zip
