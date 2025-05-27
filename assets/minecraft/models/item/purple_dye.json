@@ -29,6 +29,46 @@
     {
       "predicate": { "custom_model_data": 7 },
       "model": "crown:rsr/warning_new_bar_2"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "minecraft:item/ar"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "minecraft:item/rsr"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "minecraft:item/bb"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "minecraft:item/pkt"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "minecraft:item/pkw"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "minecraft:item/db"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "minecraft:item/crownicon"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "minecraft:item/sumo"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "minecraft:item/home"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "minecraft:item/star"
     }
   ]
 }
