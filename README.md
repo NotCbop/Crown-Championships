@@ -1,8 +1,10 @@
 # 🏁 Crown Championship Resource Pack
 
-Welcome to the **Crown Championship Resource Pack** – a fan-made resource pack designed to recreate the look and feel of *Minecraft Championship* (MCC) within your own Minecraft worlds!
+Welcome to the **Crown Championship Resource Pack** – a fan-made resource pack designed to recreate the look and feel of *Minecraft Championship* (MCC) 
+within your own Minecraft worlds!
 
-This pack includes custom textures, sounds, models, and UI elements inspired by the iconic Noxcrew MCC events – perfect for content creators, event organizers, or fans who want to bring the excitement of MCC into their game.
+This pack includes custom textures, sounds, models, and UI elements inspired by the iconic Noxcrew MCC events
+– perfect for content creators, event organizers, or fans who want to bring the excitement of MCC into their game.
 
 ---
 
