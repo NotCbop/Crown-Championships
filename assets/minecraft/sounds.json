@@ -1612,6 +1612,36 @@
             }
         ]
     },
+    "event.gameintro": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/gameintro",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.gameendmusic": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/gameendmusic",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
     "event.block.snow.break": {
         "replace": true,
         "sounds": [
