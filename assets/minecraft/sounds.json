@@ -1,1 +1,1645 @@
-{"event.npc_cheering":{"replace":true,"sounds":[{"name":"event/npc_cheering.2","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2},{"name":"event/npc_cheering.1","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2},{"name":"event/npc_cheering.3","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2},{"name":"event/npc_cheering.4","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2},{"name":"event/npc_cheering.5","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2},{"name":"event/npc_cheering.6","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2}]},"block.portal.ambient":{"replace":true,"subtitle":""},"random.explode3":{"replace":true,"sounds":[{"name":"random/explode3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"random.explode4":{"replace":true,"sounds":[{"name":"random/explode4","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"random.explode1":{"replace":true,"sounds":[{"name":"random/explode1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"random.explode2":{"replace":true,"sounds":[{"name":"random/explode2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"ambient.cave.cave":{"replace":true,"subtitle":""},"music_disc.far":{"replace":true,"sounds":[{"name":"music_disc/far","volume":0.7,"pitch":1.0,"weight":1,"stream":true,"attenuation_distance":16,"preload":false,"channels":2}]},"music_disc.mall":{"replace":true,"sounds":[{"name":"music_disc/mall","volume":0.7,"pitch":1.0,"weight":1,"stream":true,"attenuation_distance":16,"preload":false,"channels":2}]},"music_disc.chirp":{"replace":true,"sounds":[{"name":"music_disc/chirp","volume":0.7,"pitch":1.0,"weight":1,"stream":true,"attenuation_distance":16,"preload":false,"channels":2}]},"music_disc.blocks":{"replace":true,"sounds":[{"name":"music_disc/blocks","volume":0.7,"pitch":1.0,"weight":1,"stream":true,"attenuation_distance":16,"preload":false,"channels":2}]},"music_disc.cat":{"replace":true,"sounds":[{"name":"music_disc/cat","volume":0.7,"pitch":1.0,"weight":1,"stream":true,"attenuation_distance":16,"preload":false,"channels":2}]},"event.shrink":{"replace":true,"sounds":[{"name":"event/shrink","volume":0.2,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":64,"preload":false,"channels":2}]},"event.enemy_lockout":{"replace":true,"sounds":[{"name":"event/enemy_lockout","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.123":{"replace":true,"sounds":[{"name":"event.123","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.smallcoins":{"replace":true,"sounds":[{"name":"event/smallcoins","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.roundend":{"replace":true,"sounds":[{"name":"event/roundend","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.go":{"replace":true,"sounds":[{"name":"event/go","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.mapalert":{"replace":true,"sounds":[{"name":"event/mapalert","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.scoreacquired":{"replace":true,"sounds":[{"name":"event/scoreacquired","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.teameliminated":{"replace":true,"sounds":[{"name":"event/teameliminated","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.scoreunacquired":{"replace":true,"sounds":[{"name":"event/scoreunacquired","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.clockticknormal":{"replace":true,"sounds":[{"name":"event/clockticknormal","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.textpop":{"replace":true,"sounds":[{"name":"event/textpop","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.bigscoreacquired":{"replace":true,"sounds":[{"name":"event/bigscoreacquired","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.duelists_announce":{"replace":true,"sounds":[{"name":"event/duelists_announce","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.clocktickhigh":{"replace":true,"sounds":[{"name":"event/clocktickhigh","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.bigcoins":{"replace":true,"sounds":[{"name":"event/bigcoins","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.enemy_complete":{"replace":true,"sounds":[{"name":"event/enemy_complete","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.objectivecomplete":{"replace":true,"sounds":[{"name":"event/objectivecomplete","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.mapupdate":{"replace":true,"sounds":[{"name":"event/mapupdate","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.grace_period":{"replace":true,"sounds":[{"name":"event/grace_period","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.piano3":{"replace":true,"sounds":[{"name":"music/game/piano3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.hal3":{"replace":true,"sounds":[{"name":"music/game/hal3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.hal4":{"replace":true,"sounds":[{"name":"music/game/hal4","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.calm1":{"replace":true,"sounds":[{"name":"music/game/calm1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.floating_dream":{"replace":true,"sounds":[{"name":"music/game/floating_dream","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nuance2":{"replace":true,"sounds":[{"name":"music/game/nuance2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.wending":{"replace":true,"sounds":[{"name":"music/game/wending","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.hal2":{"replace":true,"sounds":[{"name":"music/game/hal2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.left_to_bloom":{"replace":true,"sounds":[{"name":"music/game/left_to_bloom","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.one_more_day":{"replace":true,"sounds":[{"name":"music/game/one_more_day","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.calm3":{"replace":true,"sounds":[{"name":"music/game/calm3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.hal1":{"replace":true,"sounds":[{"name":"music/game/hal1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.calm2":{"replace":true,"sounds":[{"name":"music/game/calm2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.comforting_memories":{"replace":true,"sounds":[{"name":"music/game/comforting_memories","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nuance1":{"replace":true,"sounds":[{"name":"music/game/nuance1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.an_ordinary_day":{"replace":true,"sounds":[{"name":"music/game/an_ordinary_day","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.infinite_amethyst":{"replace":true,"sounds":[{"name":"music/game/infinite_amethyst","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.piano2":{"replace":true,"sounds":[{"name":"music/game/piano2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.ancestry":{"replace":true,"sounds":[{"name":"music/game/ancestry","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.stand_tall":{"replace":true,"sounds":[{"name":"music/game/stand_tall","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.piano1":{"replace":true,"sounds":[{"name":"music/game/piano1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.creative.creative3":{"replace":true,"sounds":[{"name":"music/game/creative/creative3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.creative.creative2":{"replace":true,"sounds":[{"name":"music/game/creative/creative2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.creative.creative1":{"replace":true,"sounds":[{"name":"music/game/creative/creative1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.creative.creative4":{"replace":true,"sounds":[{"name":"music/game/creative/creative4","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.creative.creative6":{"replace":true,"sounds":[{"name":"music/game/creative/creative6","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.creative.creative5":{"replace":true,"sounds":[{"name":"music/game/creative/creative5","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.end.end":{"replace":true,"sounds":[{"name":"music/game/end/end","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.end.credits":{"replace":true,"sounds":[{"name":"music/game/end/credits","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.end.boss":{"replace":true,"sounds":[{"name":"music/game/end/boss","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.nether2":{"replace":true,"sounds":[{"name":"music/game/nether/nether2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.nether3":{"replace":true,"sounds":[{"name":"music/game/nether/nether3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.nether4":{"replace":true,"sounds":[{"name":"music/game/nether/nether4","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.nether1":{"replace":true,"sounds":[{"name":"music/game/nether/nether1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.crimson_forest.chrysopoeia":{"replace":true,"sounds":[{"name":"music/game/nether/crimson_forest/chrysopoeia","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.nether_wastes.rubedo":{"replace":true,"sounds":[{"name":"music/game/nether/nether_wastes/rubedo","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.nether.soulsand_valley.so_below":{"replace":true,"sounds":[{"name":"music/game/nether/soulsand_valley/so_below","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.swamp.firebugs":{"replace":true,"sounds":[{"name":"music/game/swamp/firebugs","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.swamp.aerie":{"replace":true,"sounds":[{"name":"music/game/swamp/aerie","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.swamp.labyrinthine":{"replace":true,"sounds":[{"name":"music/game/swamp/labyrinthine","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.water.dragon_fish":{"replace":true,"sounds":[{"name":"music/game/water/dragon_fish","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.water.shuniji":{"replace":true,"sounds":[{"name":"music/game/water/shuniji","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"music.game.water.axolotl":{"replace":true,"sounds":[{"name":"music/game/water/axolotl","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.tomb_open":{"replace":true,"sounds":[{"name":"event/tomb_open","volume":0.5,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.gold_drop":{"replace":true,"sounds":[{"name":"event/gold_drop.1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/gold_drop.2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/gold_drop.3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sand_place":{"replace":true,"sounds":[{"name":"event/sand_place.3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/sand_place.2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/sand_place.1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.teamvault_open":{"replace":true,"sounds":[{"name":"event/teamvault_open","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.door_vault":{"replace":true,"sounds":[{"name":"event/door_vault","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sandtimer_10sec":{"replace":true,"sounds":[{"name":"event/sandtimer_10sec","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.statue_break":{"replace":true,"sounds":[{"name":"event/statue_break.3","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/statue_break.1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/statue_break.2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.key_pickup":{"replace":true,"sounds":[{"name":"event/key_pickup","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.key_pickup_gold":{"replace":true,"sounds":[{"name":"event/key_pickup_gold","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sandtimer_30sec":{"replace":true,"sounds":[{"name":"event/sandtimer_30sec","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.vault_open":{"replace":true,"sounds":[{"name":"event/vault_open","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sand_full":{"replace":true,"sounds":[{"name":"event/sand_full","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.button_push2":{"replace":true,"sounds":[{"name":"event/button_push2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.key_pickup_vault":{"replace":true,"sounds":[{"name":"event/key_pickup_vault","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.gate_close":{"replace":true,"sounds":[{"name":"event/gate_close","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.door_wood":{"replace":true,"sounds":[{"name":"event/door_wood","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.lock_in":{"replace":true,"sounds":[{"name":"event/lock_in","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sandtimer_20sec":{"replace":true,"sounds":[{"name":"event/sandtimer_20sec","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sand_falling":{"replace":true,"sounds":[{"name":"event/sand_falling.1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2},{"name":"event/sand_falling.2","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.puzzle_complete":{"replace":true,"sounds":[{"name":"event/puzzle_complete","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sand_sacrifice":{"replace":true,"sounds":[{"name":"event/sand_sacrifice","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.key_loop":{"replace":true,"sounds":[{"name":"event/key_loop","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.button_push1":{"replace":true,"sounds":[{"name":"event/button_push1","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.gate_open":{"replace":true,"sounds":[{"name":"event/gate_open","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.sands_grace_period":{"replace":true,"sounds":[{"name":"event/sands_grace_period","volume":1.0,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":16,"preload":false,"channels":2}]},"event.block.snow.break":{"replace":true,"sounds":[{"name":"event/block/snow/break","volume":0.8,"pitch":1.0,"weight":1,"stream":false,"attenuation_distance":4,"preload":false,"channels":2}]},"event.music.sands_of_time":{"replace":true,"sounds":[{"name":"event/music/sands_of_time","volume":0.7,"pitch":1.0,"weight":1,"stream":true,"attenuation_distance":0,"preload":false,"channels":2}]}}
+{
+    "event.npc_cheering": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/npc_cheering.2",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/npc_cheering.1",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/npc_cheering.3",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/npc_cheering.4",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/npc_cheering.5",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/npc_cheering.6",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "block.portal.ambient": {
+        "replace": true,
+        "subtitle": ""
+    },
+    "random.explode3": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "random/explode3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "random.explode4": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "random/explode4",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "random.explode1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "random/explode1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "random.explode2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "random/explode2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "ambient.cave.cave": {
+        "replace": true,
+        "subtitle": ""
+    },
+    "music_disc.far": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music_disc/far",
+                "volume": 0.7,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music_disc.mall": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music_disc/mall",
+                "volume": 0.7,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music_disc.chirp": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music_disc/chirp",
+                "volume": 0.7,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music_disc.blocks": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music_disc/blocks",
+                "volume": 0.7,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music_disc.cat": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music_disc/cat",
+                "volume": 0.7,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.shrink": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/shrink",
+                "volume": 0.2,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 64,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.enemy_lockout": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/enemy_lockout",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.123": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event.123",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.smallcoins": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/smallcoins",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.roundend": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/roundend",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.go": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/go",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.mapalert": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/mapalert",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.scoreacquired": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/scoreacquired",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.teameliminated": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/teameliminated",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.scoreunacquired": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/scoreunacquired",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.clockticknormal": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/clockticknormal",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.textpop": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/textpop",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.bigscoreacquired": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/bigscoreacquired",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.duelists_announce": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/duelists_announce",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.clocktickhigh": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/clocktickhigh",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.bigcoins": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/bigcoins",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.enemy_complete": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/enemy_complete",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.objectivecomplete": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/objectivecomplete",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.mapupdate": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/mapupdate",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.grace_period": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/grace_period",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.piano3": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/piano3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.hal3": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/hal3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.hal4": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/hal4",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.calm1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/calm1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.floating_dream": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/floating_dream",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nuance2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nuance2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.wending": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/wending",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.hal2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/hal2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.left_to_bloom": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/left_to_bloom",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.one_more_day": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/one_more_day",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.calm3": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/calm3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.hal1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/hal1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.calm2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/calm2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.comforting_memories": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/comforting_memories",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nuance1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nuance1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.an_ordinary_day": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/an_ordinary_day",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.infinite_amethyst": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/infinite_amethyst",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.piano2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/piano2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.ancestry": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/ancestry",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.stand_tall": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/stand_tall",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.piano1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/piano1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.creative.creative3": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/creative/creative3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.creative.creative2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/creative/creative2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.creative.creative1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/creative/creative1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.creative.creative4": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/creative/creative4",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.creative.creative6": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/creative/creative6",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.creative.creative5": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/creative/creative5",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.end.end": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/end/end",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.end.credits": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/end/credits",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.end.boss": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/end/boss",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.nether2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/nether2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.nether3": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/nether3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.nether4": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/nether4",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.nether1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/nether1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.crimson_forest.chrysopoeia": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/crimson_forest/chrysopoeia",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.nether_wastes.rubedo": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/nether_wastes/rubedo",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.nether.soulsand_valley.so_below": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/soulsand_valley/so_below",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.swamp.firebugs": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/swamp/firebugs",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.swamp.aerie": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/swamp/aerie",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.swamp.labyrinthine": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/swamp/labyrinthine",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.water.dragon_fish": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/water/dragon_fish",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.water.shuniji": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/water/shuniji",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "music.game.water.axolotl": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/water/axolotl",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.tomb_open": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/tomb_open",
+                "volume": 0.5,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.gold_drop": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/gold_drop.1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/gold_drop.2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/gold_drop.3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sand_place": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sand_place.3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/sand_place.2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/sand_place.1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.teamvault_open": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/teamvault_open",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.door_vault": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/door_vault",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sandtimer_10sec": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sandtimer_10sec",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.statue_break": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/statue_break.3",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/statue_break.1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/statue_break.2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.key_pickup": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/key_pickup",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.key_pickup_gold": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/key_pickup_gold",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sandtimer_30sec": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sandtimer_30sec",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.vault_open": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/vault_open",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sand_full": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sand_full",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.button_push2": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/button_push2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.key_pickup_vault": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/key_pickup_vault",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.gate_close": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/gate_close",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.door_wood": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/door_wood",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.lock_in": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/lock_in",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sandtimer_20sec": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sandtimer_20sec",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sand_falling": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sand_falling.1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            },
+            {
+                "name": "event/sand_falling.2",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.puzzle_complete": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/puzzle_complete",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sand_sacrifice": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sand_sacrifice",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.timer_starting": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/timer_starting",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.key_loop": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/key_loop",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.button_push1": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/button_push1",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.gate_open": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/gate_open",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.sands_grace_period": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/sands_grace_period",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 16,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.block.snow.break": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/block/snow/break",
+                "volume": 0.8,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "attenuation_distance": 4,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    },
+    "event.music.sands_of_time": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "event/music/sands_of_time",
+                "volume": 0.7,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": true,
+                "attenuation_distance": 0,
+                "preload": false,
+                "channels": 2
+            }
+        ]
+    }
+}
