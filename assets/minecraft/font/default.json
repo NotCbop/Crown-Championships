@@ -764,6 +764,13 @@
     },
     {
       "type": "bitmap",
+      "file": "font/ui/star.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["␴"]
+    },
+    {
+      "type": "bitmap",
       "file": "crown:custom/_font/transition.png",
       "ascent": 250,
       "height": 1200,
