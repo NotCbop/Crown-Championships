@@ -157,6 +157,7 @@
 	"rsr.rocket_spleef_alert1":{"sounds":["crown:rsr/rocket_spleef_alert1"]},
 	"rsr.rocket_spleef_alert2":{"sounds":["crown:rsr/rocket_spleef_alert2"]},
 	"rsr.rocket_spleef_updraft":{"sounds":["crown:rsr/rocket_spleef_updraft"]},
+	"rsr.rocket_spleef_reload":{"sounds":["crown:rsr/rocket_spleef_reload"]},
 	
 	"main.meme_search":{"sounds":["crown:main/meme_search"]}
 }
