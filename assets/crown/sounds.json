@@ -113,6 +113,7 @@
 	"main.obstacle_title":{"sounds":["crown:main/obstacle_title"]},
 	"main.roundend":{"sounds":["crown:main/roundend"]},
 	"main.announcement":{"sounds":["crown:main/server_announcement"]},
+	"main.gameentry":{"sounds":["crown:main/gameentry"]},
 	"main.roundendmusic":{"sounds":["crown:main/roundendmusic"]},
 	"main.scoreacquired":{"sounds":["crown:main/scoreacquired"]},
 	"main.big_scoreacquired":{"sounds":["crown:main/big_scoreacquired"]},
