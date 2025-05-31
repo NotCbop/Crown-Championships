@@ -122,6 +122,7 @@
 	"main.shrink_short":{"sounds":["crown:main/shrink_short"]},
 	"main.smallcoins":{"sounds":["crown:main/smallcoins"]},
 	"main.small_kudos":{"sounds":["crown:main/small_kudos"]},
+	"main.segacrew":{"sounds":["crown:main/segacrew"]},
 	"main.takeover":{"sounds":["crown:main/takeover"]},
 	"main.teameliminated":{"sounds":["crown:main/teameliminated"]},
 	"main.textpop":{"sounds":["crown:main/textpop"]},
