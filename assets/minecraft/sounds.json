@@ -1,1 +1,38 @@
-{"block.portal.ambient":{"replace":true,"sounds":[{"name":"music/game/silence"}]},"ambient.cave.cave":{"category":"ambient","sounds":["music/game/silence"]}}
+{
+    "block.portal.ambient": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/game/silence"
+            }
+        ]
+    },
+    "entity.wind_charge.wind_burst": {"replace": true},
+
+    "custom.wind_charge": {
+    "sounds": [
+      {
+        "attenuation_distance": 8,
+        "name": "entity/wind_charge/wind_burst1",
+        "pitch": 1.25
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "entity/wind_charge/wind_burst2",
+        "pitch": 1.25
+      },
+      {
+        "attenuation_distance": 8,
+        "name": "entity/wind_charge/wind_burst3",
+        "pitch": 1.25
+      }
+    ],
+    "subtitle": "subtitles.entity.wind_charge.wind_burst"
+    },
+    "ambient.cave.cave": {
+        "category": "ambient",
+        "sounds": [
+            "music/game/silence"
+        ]
+    }
+}
