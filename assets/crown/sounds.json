@@ -48,6 +48,7 @@
 	"main.go":{"sounds":["crown:main/go"]},
 	"main.grace_period":{"sounds":["crown:main/grace_period"]},
 	"main.spark":{"sounds":["crown:main/spark"]},
+	"main.juggedtheband":{"sounds":["crown:main/saxboy"]},
 	"main.hubtick":{"sounds":["crown:main/hubtick"]},
 	"main.mapalert":{"sounds":["crown:main/mapalert"]},
 	"main.mapupdate":{"sounds":["crown:main/mapupdate"]},
