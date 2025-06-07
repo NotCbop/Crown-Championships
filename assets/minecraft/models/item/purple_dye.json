@@ -33,6 +33,14 @@
     {
       "predicate": { "custom_model_data": 8 },
       "model": "minecraft:item/crownicon"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "minecraft:item/pktpearl"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "minecraft:item/pktpearl2"
     }
   ]
 }
