@@ -69,6 +69,10 @@
     {
       "predicate": { "custom_model_data": 17 },
       "model": "minecraft:item/star"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "minecraft:item/pktpearl"
     }
   ]
 }
