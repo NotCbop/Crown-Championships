@@ -134,6 +134,7 @@
 	"music.ace_race_main":{"sounds":["crown:music/ace_race_main"]},
 	"music.battle_box_main":{"sounds":["crown:music/battle_box_main"]},
 	"music.buildmart_main":{"sounds":["crown:music/buildmart_main"]},
+	"music.bingobutfast":{"sounds":["crown:music/bingobutfast"]},
 	"music.decisiondome":{"sounds":["crown:music/decisiondome"]},
 	"music.dodgebolt":{"sounds":["crown:music/dodgebolt"]},
 	"music.dodgebolt_fast":{"sounds":["crown:music/dodgebolt_fast"]},
