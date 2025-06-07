@@ -45,11 +45,6 @@
         },
         {
             "type": "directory",
-            "source": "font",
-            "prefix": "font/"
-        },
-        {
-            "type": "directory",
             "source": "variated",
             "prefix": "variated/"
         }

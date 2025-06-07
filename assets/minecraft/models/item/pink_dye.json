@@ -123,6 +123,13 @@
                 "custom_model_data": 20
             },
             "model": "crown:pkw/frog_outline"
-        }
+        },
+        {
+		    "predicate": 
+			{
+				"custom_model_data":21
+			},
+			    "model": "minecraft:item/bingo_card"
+		}
     ]
 }
