@@ -77,6 +77,26 @@
     {
       "predicate": { "custom_model_data": 19 },
       "model": "minecraft:item/pktpearl2"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "minecraft:item/hub/restart_course"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "minecraft:item/hub/next"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "minecraft:item/hub/previous"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "minecraft:item/hub/mode_swap_challenge"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "minecraft:item/hub/mode_swap_practice"
     }
   ]
 }
