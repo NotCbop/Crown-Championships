@@ -119,6 +119,7 @@
 	"main.scoreacquired":{"sounds":["crown:main/scoreacquired"]},
 	"main.big_scoreacquired":{"sounds":["crown:main/big_scoreacquired"]},
 	"main.parkourwarrior_finish":{"sounds":["crown:main/games.parkour_warrior.parkour_finish"]},
+	"main.pengonn":{"sounds":["crown:main/pengonn"]},
 	"main.scoreunacquired":{"sounds":["crown:main/scoreunacquired"]},
 	"main.shrink":{"sounds":["crown:main/shrink"]},
 	"main.shrink_short":{"sounds":["crown:main/shrink_short"]},
