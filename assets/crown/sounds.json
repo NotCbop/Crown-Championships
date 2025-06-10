@@ -27,6 +27,7 @@
 	"main.bigcoins":{"sounds":["crown:main/bigcoins"]},
 	"main.bigscoreacquired":{"sounds":["crown:main/bigscoreacquired"]},
 	"main.border_shrink":{"sounds":["crown:main/border_shrink"]},
+	"main.button_press":{"sounds":["crown:main/button_press"]},
 	"main.duelists_announce":{"sounds":["crown:main/duelists_announce"]},
 	"main.bridge_extend":{"sounds":["crown:main/bridge_extend"]},
 	"main.click":{"sounds":["crown:main/click1","crown:main/click2","crown:main/click3","crown:main/click4","crown:main/click5","crown:main/click6","crown:main/click7"]},
