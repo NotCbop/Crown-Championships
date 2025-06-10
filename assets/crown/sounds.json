@@ -105,8 +105,8 @@
 	"md.meltdown_entrance":{"sounds":["crown:meltdown/meltdown_entrance"]},
 	"md.meltdown_frozen":{"sounds":["crown:meltdown/meltdown_frozen"]},
 	"md.meltdown_unfrozen":{"sounds":["crown:meltdown/meltdown_unfrozen"]},
-	"md.teammate_freeze":{"sounds":["crown:meltdown/teamate_freeze"]},
-	"md.teammate_unfreeze":{"sounds":["crown:meltdown/teamate_unfreeze"]},
+	"md.teammate_freeze":{"sounds":["crown:meltdown/teammate_freeze"]},
+	"md.teammate_unfreeze":{"sounds":["crown:meltdown/teammate_unfreeze"]},
 	"md.telepickaxe":{"sounds":["crown:meltdown/telepickaxe"]},
 	
 	"main.overtimeintro":{"sounds":["crown:main/overtimeintro"]},
