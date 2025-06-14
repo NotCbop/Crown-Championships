@@ -160,6 +160,10 @@
 	"music.hub4":{"sounds":["crown:music/hub_music4"]},
 	"music.meltdown":{"sounds":["crown:music/meltdown"]},
 	
+	
+	"pkw.restart_course":{"sounds":["crown:pkw/restart_course"]},
+
+
 	"rsr.rocket_spleef_alert1":{"sounds":["crown:rsr/rocket_spleef_alert1"]},
 	"rsr.rocket_spleef_alert2":{"sounds":["crown:rsr/rocket_spleef_alert2"]},
 	"rsr.rocket_spleef_updraft":{"sounds":["crown:rsr/rocket_spleef_updraft"]},
