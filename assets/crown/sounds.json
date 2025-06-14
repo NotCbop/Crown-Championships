@@ -162,6 +162,9 @@
 	
 	
 	"pkw.restart_course":{"sounds":["crown:pkw/restart_course"]},
+	"pkw.set_mode_speedrun":{"sounds":["crown:pkw/set_mode_speedrun"]},
+	"pkw.set_mode_practice":{"sounds":["crown:pkw/set_mode_practice"]},
+
 
 
 	"rsr.rocket_spleef_alert1":{"sounds":["crown:rsr/rocket_spleef_alert1"]},
