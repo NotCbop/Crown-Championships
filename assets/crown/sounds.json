@@ -33,6 +33,7 @@
 	"main.click":{"sounds":["crown:main/click1","crown:main/click2","crown:main/click3","crown:main/click4","crown:main/click5","crown:main/click6","crown:main/click7"]},
 	"main.clocktickhigh":{"sounds":["crown:main/clocktickhigh"]},
 	"main.clockticknormal":{"sounds":["crown:main/clockticknormal"]},
+	"main.checkpoint_pass":{"sounds":["crown:main/checkpoint_pass"]},
 	"main.ddspin":{"sounds":["crown:main/ddspin1","crown:main/ddspin2","crown:main/ddspin3","crown:main/ddspin4","crown:main/ddspin5","crown:main/ddspin6","crown:main/ddspin7","crown:main/ddspin8","crown:main/ddspin9","crown:main/ddspin10","crown:main/ddspin11","crown:main/ddspin12","crown:main/ddspin13","crown:main/ddspin14","crown:main/ddspin15","crown:main/ddspin16"]},
 	"main.dunk":{"sounds":["crown:main/dunk"]},
 	"main.elevator_break":{"sounds":["crown:main/elevator_break"]},
