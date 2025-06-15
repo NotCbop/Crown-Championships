@@ -35,11 +35,11 @@
       "model": "minecraft:item/crownicon"
     },
     {
-      "predicate": { "custom_model_data": 18 },
+      "predicate": { "custom_model_data": 9 },
       "model": "minecraft:item/pktpearl"
     },
     {
-      "predicate": { "custom_model_data": 19 },
+      "predicate": { "custom_model_data": 10 },
       "model": "minecraft:item/pktpearl2"
     }
   ]
