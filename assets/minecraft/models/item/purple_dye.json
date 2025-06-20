@@ -97,6 +97,10 @@
     {
       "predicate": { "custom_model_data": 24 },
       "model": "minecraft:item/hub/mode_swap_practice"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "minecraft:item/sumo2"
     }
   ]
 }
