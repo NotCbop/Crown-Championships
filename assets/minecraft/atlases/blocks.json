@@ -40,6 +40,11 @@
         },
         {
             "type": "directory",
+            "source": "island_interface",
+            "prefix": "island_interface/"
+        },
+        {
+            "type": "directory",
             "source": "unicode",
             "prefix": "unicode/"
         },

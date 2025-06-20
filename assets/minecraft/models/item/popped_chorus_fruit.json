@@ -158,13 +158,37 @@
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "mcc:event_interface/settings"
+            "model": "mcc:island_interface/misc/settings"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "mcc:event_interface/generic/skull"
+            "model": "mcc:island_interface/misc/skull"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "mcc:island_interface/misc/freecam"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "mcc:island_interface/misc/spectate_main"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "mcc:island_interface/misc/spectator"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "mcc:island_interface/misc/spectator_off"
         }
     ]
 }
