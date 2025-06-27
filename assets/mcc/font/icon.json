@@ -3095,6 +3095,15 @@
         },
         {
             "type": "bitmap",
+            "file": "mcc:_fonts/arrow_display.png",
+            "chars": [
+                "➅"
+            ],
+            "ascent": 7,
+            "height": 8
+        },
+        {
+            "type": "bitmap",
             "file": "mcc:_fonts/winner.png",
             "chars": [
                 ""
