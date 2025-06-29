@@ -29,6 +29,14 @@
     ],
     "subtitle": "subtitles.entity.wind_charge.wind_burst"
     },
+    "block.note_block.banjo": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "crown:md.ricochet"
+            }
+        ]
+    },
     "ambient.cave.cave": {
         "category": "ambient",
         "sounds": [
