@@ -34,22 +34,18 @@
       "replace": true,
       "sounds": [
         {
-          "attenuation_distance": 8,
           "name": "note/ricochet1",
           "pitch": 1
         },
         {
-          "attenuation_distance": 8,
           "name": "note/ricochet2",
           "pitch": 1
         },
         {
-          "attenuation_distance": 8,
           "name": "note/ricochet3",
           "pitch": 1
         },
         {
-          "attenuation_distance": 8,
           "name": "note/ricochet4",
           "pitch": 1
         }
