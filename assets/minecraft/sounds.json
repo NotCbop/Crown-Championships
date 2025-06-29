@@ -29,31 +29,31 @@
     ],
     "subtitle": "subtitles.entity.wind_charge.wind_burst"
     },
-
-    "block.note_block.banjo": {"replace": true},
-    "sounds": [
-      {
-        "attenuation_distance": 8,
-        "name": "note/ricochet1",
-        "pitch": 1.25
-      },
-      {
-        "attenuation_distance": 8,
-        "name": "note/ricochet2",
-        "pitch": 1.25
-      },
-      {
-        "attenuation_distance": 8,
-        "name": "note/ricochet3",
-        "pitch": 1.25
-      },
-      {
-        "attenuation_distance": 8,
-        "name": "note/ricochet4",
-        "pitch": 1.25
-      }
-    ],
-    "subtitle": "subtitles.entity.wind_charge.wind_burst"
+    "block.note_block.banjo": {
+      "replace": true,
+      "sounds": [
+        {
+          "attenuation_distance": 8,
+          "name": "note/ricochet1",
+          "pitch": 1.25
+        },
+        {
+          "attenuation_distance": 8,
+          "name": "note/ricochet2",
+          "pitch": 1.25
+        },
+        {
+          "attenuation_distance": 8,
+          "name": "note/ricochet3",
+          "pitch": 1.25
+        },
+        {
+          "attenuation_distance": 8,
+          "name": "note/ricochet4",
+          "pitch": 1.25
+        }
+      ],
+      "subtitle": "subtitles.block.note_block.note"
     },
     "ambient.cave.cave": {
         "category": "ambient",
