@@ -166,6 +166,7 @@
 	"pkw.section_previous":{"sounds":["crown:pkw/section_previous"]},
 	"pkw.set_mode_speedrun":{"sounds":["crown:pkw/set_mode_speedrun"]},
 	"pkw.set_mode_practice":{"sounds":["crown:pkw/set_mode_practice"]},
+	"pkw.finish":{"sounds":["crown:pkw/parkour_finish"]},
 
 
 
