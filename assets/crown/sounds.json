@@ -13,6 +13,7 @@
 	"ar.wall_slide_loop":{"sounds":["crown:ar/wall_slide_loop1","crown:ar/wall_slide_loop2","crown:ar/wall_slide_loop3","crown:ar/wall_slide_loop4"]},
 	"ar.aqua_jet":{"sounds":["crown:aqua_jet1","crown:aqua_jet2","crown:aqua_jet3"]},
 	"ar.jump_big":{"sounds":["crown:jump_big11","crown:jump_big2","crown:jump_big3"]},
+	"ar.wind_gust":{"sounds":["crown:ar/wind_gust"]},
 	
 	"games.global.countdown.123":{"replace":false,"sounds":[{"name":"crown:games.global.countdown.123"}]},
 	"games.global.countdown.go":{"replace":false,"sounds":[{"name":"crown:games.global.countdown.go"}]},
