@@ -841,7 +841,7 @@
     },
     {
       "type": "bitmap",
-      "file": "font/ui/mcciflag.png",
+      "file": "font/ui/team_flag.png",
       "ascent": 7,
       "height": 8,
       "chars": ["✐"]
