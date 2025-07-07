@@ -745,7 +745,7 @@
       "type": "bitmap",
       "file": "font/ui/dbarrow.png",
       "ascent": 7,
-      "height": 8,
+      "height": 32,
       "chars": ["🔻"]
     },
     {
