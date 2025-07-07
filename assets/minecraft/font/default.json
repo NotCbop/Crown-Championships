@@ -757,10 +757,52 @@
     },
     {
       "type": "bitmap",
-      "file": "font/ui/stats_breakdown.png",
+      "file": "font/ui/first_place.png",
       "ascent": 6,
       "height": 40,
       "chars": ["⶘"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/new_record.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⃎"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/preformance_improvement.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⧱"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/personal_best.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⿯"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/top_5.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⿪"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/top_10.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⵾"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/top_20.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⹺"]
     },
     {
       "type": "bitmap",
