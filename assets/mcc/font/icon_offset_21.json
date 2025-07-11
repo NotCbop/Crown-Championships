@@ -2159,29 +2159,83 @@
         },
         {
             "type": "bitmap",
+            "file": "mcc:_fonts/progress_counter/blank.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -14,
+            "height": 7
+        },
+        {
+            "type": "bitmap",
             "file": "mcc:_fonts/progress_counter/empty.png",
             "chars": [
-                ""
+                ""
             ],
-            "ascent": -12,
+            "ascent": -14,
             "height": 7
         },
         {
             "type": "bitmap",
             "file": "mcc:_fonts/progress_counter/full.png",
             "chars": [
-                ""
+                ""
             ],
-            "ascent": -12,
+            "ascent": -14,
             "height": 7
         },
         {
             "type": "bitmap",
             "file": "mcc:_fonts/progress_counter/half.png",
             "chars": [
-                ""
+                ""
             ],
-            "ascent": -12,
+            "ascent": -14,
+            "height": 7
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/progress_counter/orange/full.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -14,
+            "height": 7
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/progress_counter/orange/half.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -14,
+            "height": 7
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/progress_counter/orange_square/full.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -14,
+            "height": 7
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/progress_counter/red/full.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -14,
+            "height": 7
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/progress_counter/red/half.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -14,
             "height": 7
         },
         {
