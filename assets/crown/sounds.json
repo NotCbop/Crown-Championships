@@ -113,6 +113,7 @@
 	"md.teammate_unfreeze":{"sounds":["crown:meltdown/teammate_unfreeze"]},
 	"md.telepickaxe":{"sounds":["crown:meltdown/telepickaxe"]},
 	
+	"main.discord_ping":{"sounds":["crown:main/discord_ping"]},
 	"main.overtimeintro":{"sounds":["crown:main/overtimeintro"]},
 	"main.overtimeloop":{"sounds":["crown:main/overtimeloop"]},
 	"main.obstacle_title":{"sounds":["crown:main/obstacle_title"]},
