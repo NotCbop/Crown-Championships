@@ -745,7 +745,7 @@
       "type": "bitmap",
       "file": "font/ui/dbarrow.png",
       "ascent": 7,
-      "height": 8,
+      "height": 32,
       "chars": ["🔻"]
     },
     {
@@ -757,10 +757,94 @@
     },
     {
       "type": "bitmap",
-      "file": "font/ui/stats_breakdown.png",
+      "file": "font/ui/first_place.png",
       "ascent": 6,
       "height": 40,
       "chars": ["⶘"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/new_record.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⃎"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/performance_improvement.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["↍"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/personal_best.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⿯"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/top_5.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⿪"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/top_10.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⵾"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/top_20.png",
+      "ascent": 6,
+      "height": 40,
+      "chars": ["⹺"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/star.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["␴"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/tools.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["⬯"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/tick_small.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["⃏"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/split_up.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["⹰"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/split_down.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["⃺"]
+    },
+    {
+      "type": "bitmap",
+      "file": "font/ui/team_flag.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["✐"]
     },
     {
       "type": "bitmap",
