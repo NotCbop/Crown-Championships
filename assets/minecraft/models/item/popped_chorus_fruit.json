@@ -165,6 +165,12 @@
                 "custom_model_data": 27
             },
             "model": "mcc:event_interface/generic/skull"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "mcc:event_interface/misc/spectate_main"
         }
     ]
 }
