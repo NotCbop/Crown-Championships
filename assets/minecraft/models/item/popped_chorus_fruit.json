@@ -170,13 +170,13 @@
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "mcc:event_interface/misc/freecam"
+            "model": "mcc:island_interface/misc/freecam"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "mcc:event_interface/misc/spectate_main"
+            "model": "mcc:island_interface/misc/spectate_main"
         }
     ]
 }
