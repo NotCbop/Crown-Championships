@@ -165,18 +165,6 @@
                 "custom_model_data": 27
             },
             "model": "mcc:event_interface/generic/skull"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 28
-            },
-            "model": "mcc:island_interface/misc/freecam"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 29
-            },
-            "model": "mcc:island_interface/misc/spectate_main"
         }
     ]
 }
