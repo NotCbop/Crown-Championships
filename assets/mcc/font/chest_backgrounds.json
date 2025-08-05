@@ -1,1 +1,298 @@
-{"providers":[{"type":"space","advances":{" ":4}},{"type":"bitmap","file":"mcc:_fonts/footer/center_scroll/1x3.png","chars":[""],"ascent":7,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/center_scroll/1x5.png","chars":[""],"ascent":7,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/center_scroll/1x7.png","chars":[""],"ascent":7,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/0.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/0_scroll_down.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/1x3.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/1x5.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/1x7.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/2x3.png","chars":[""],"ascent":-12,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/2x5.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/2x7.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/2x7_plus.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/button.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/buttons_two.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/regular/wallet.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/0.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/1x3.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/1x5.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/1x7.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/2x3.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/2x5.png","chars":[""],"ascent":7,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/2x7.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/footer/wider/2x7_plus.png","chars":[""],"ascent":-121,"height":256},{"type":"bitmap","file":"mcc:_fonts/header/grid_7x5_default.png","chars":[""],"ascent":27,"height":256},{"type":"bitmap","file":"mcc:_fonts/header/grid_7x5_padded.png","chars":[""],"ascent":27,"height":256},{"type":"bitmap","file":"mcc:_fonts/header/kit_select.png","chars":[""],"ascent":27,"height":256},{"type":"bitmap","file":"mcc:_fonts/settings.png","chars":[""],"ascent":25,"height":256},{"type":"bitmap","file":"mcc:_fonts/spectate.png","chars":[""],"ascent":33,"height":256},{"type":"bitmap","file":"mcc:_fonts/spawnpoint.png","chars":["🆘"],"ascent":33,"height":256},{"type":"bitmap","file":"minecraft:gui/container/chest_gui.png","chars":[""],"ascent":13,"height":167},{"type":"bitmap","file":"mcc:_fonts/bingocard.png","chars":["ⵖ"],"ascent":29,"height":256},{"type":"bitmap","file":"mcc:_fonts/navigator_menu.png","chars":["␾"],"ascent":33,"height":256}]}
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/center_scroll/1x3.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 7,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/center_scroll/1x5.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 7,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/center_scroll/1x7.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 7,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/0.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/0_scroll_down.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/1x3.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/1x5.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/1x7.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/2x3.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -12,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/2x5.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/2x7.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/2x7_plus.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/button.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/buttons_two.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/regular/wallet.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/0.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/1x3.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/1x5.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/1x7.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/2x3.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/2x5.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 7,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/2x7.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/footer/wider/2x7_plus.png",
+            "chars": [
+                ""
+            ],
+            "ascent": -121,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/header/grid_7x5_default.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 27,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/header/grid_7x5_padded.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 27,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/header/kit_select.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 27,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/settings.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 25,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/spectate.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 33,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/spawnpoint.png",
+            "chars": [
+                "🆘"
+            ],
+            "ascent": 33,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/chest_gui.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 13,
+            "height": 167
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/bingocard.png",
+            "chars": [
+                "ⵖ"
+            ],
+            "ascent": 29,
+            "height": 256
+        },
+        {
+            "type": "bitmap",
+            "file": "mcc:_fonts/navigator_menu.png",
+            "chars": [
+                "␾"
+            ],
+            "ascent": 33,
+            "height": 256
+        }
+    ]
+}

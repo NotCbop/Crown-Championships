@@ -202,6 +202,8 @@
       "model": "crown:hub/elevator/elevator_sign"
     },
     { "predicate": { "custom_model_data": 133 }, "model": "crown:hub/drone" },
-    { "predicate": { "custom_model_data": 134 }, "model": "mcc:island_lobby/construction/roadblock" }
+    { "predicate": { "custom_model_data": 134 }, "model": "mcc:island_lobby/construction/roadblock" },
+    { "predicate": { "custom_model_data": 135 }, "model": "mcc:hub_models_s2/mannequin/arm" },
+    { "predicate": { "custom_model_data": 136 }, "model": "mcc:hub_models_s2/mannequin/base" }
   ]
 }

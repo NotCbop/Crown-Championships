@@ -45,6 +45,11 @@
         },
         {
             "type": "directory",
+            "source": "event_hub",
+            "prefix": "event_hub/"
+        },
+        {
+            "type": "directory",
             "source": "unicode",
             "prefix": "unicode/"
         },
