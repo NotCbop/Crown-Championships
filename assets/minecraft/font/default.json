@@ -127,6 +127,20 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:unicode/hub/vote_1.png",
+      "ascent": 4,
+      "height": 8,
+      "chars": ["⵹"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:unicode/hub/vote_2.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["␬"]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:unicode/intro/acerace.png",
       "ascent": 40,
       "height": 80,

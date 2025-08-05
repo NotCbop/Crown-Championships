@@ -157,6 +157,8 @@
 	"music.walkoffame":{"sounds":["crown:music/walkoffame"]},
 	"music.gridrunners":{"sounds":["crown:music/gridrunners"]},
 	"music.super_monkey":{"sounds":["crown:music/super_monkey"]},
+	"music.chingchong":{"sounds":["crown:music/chingchong"]},
+	"music.quagz":{"sounds":["crown:music/quagz"]},
 	"music.hub":{"sounds":["crown:music/hub_music"]},
 	"music.hub2":{"sounds":["crown:music/hub_music2"]},
 	"music.hub3":{"sounds":["crown:music/hub_music3"]},
