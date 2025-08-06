@@ -211,8 +211,8 @@
     { "predicate": { "custom_model_data": 140 }, "model": "mcc:alarm/rotating_light" },
     { "predicate": { "custom_model_data": 141 }, "model": "mcc:alarm/rotating_light_glow" },
     { "predicate": { "custom_model_data": 142 }, "model": "mcc:hub_models_s2/signs/postcard_5" },
-    { "predicate": { "custom_model_data": 142 }, "model": "mcc:hub_models_s2/merch/sign" },
-    { "predicate": { "custom_model_data": 142 }, "model": "mcc:hub_models_s2/hub/food_menu_1" },
-    { "predicate": { "custom_model_data": 142 }, "model": "mcc:hub_models_s2/hub/food_menu_2" }
+    { "predicate": { "custom_model_data": 143 }, "model": "mcc:hub_models_s2/merch/sign" },
+    { "predicate": { "custom_model_data": 144 }, "model": "mcc:hub_models_s2/hub/food_menu_1" },
+    { "predicate": { "custom_model_data": 145 }, "model": "mcc:hub_models_s2/hub/food_menu_2" }
   ]
 }
